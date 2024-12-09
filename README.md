@@ -14,9 +14,9 @@ En este repositorio se encuentran los códigos de:
 
 ### PEPLER:
 
-Desde la carpeta PEPLER:
+Desde la carpeta ```PEPLER```:
 
-Para PEPLER:
+Para ```PEPLER```:
 
 ```
 python -u main.py \
@@ -26,7 +26,7 @@ python -u main.py \
 --checkpoint ./ >> logname.log
 ```
 
-Para PEPLER-MLP:
+Para ```PEPLER-MLP```:
 
 ```
 python -u reg.py \
@@ -36,7 +36,7 @@ python -u reg.py \
 --checkpoint ./ >> logname.log
 ```
 
-Para PEPLER-D:
+Para ```PEPLER-D```:
  ```
 python -u discrete.py \
 --data_path interactions_pepler.csv\
@@ -44,7 +44,7 @@ python -u discrete.py \
 --cuda \
 --checkpoint ./ >> logname.log
 ```
-(Recuerde modificar el nombre "logname.log" para no sobreescribir los resultados)
+(Recuerde modificar el nombre ```logname.log``` para no sobreescribir los resultados)
 
 ### REASONER:
 
@@ -80,7 +80,7 @@ Se calculan de manera automática al correr los modelos, quedando registradas en
 Las métricas normalizadas se calculan utilizando dichas funciones.
 
 
-REFERENCIAS:
+## Referencias:
 
 ```
 @misc{chen2023reasoner,
