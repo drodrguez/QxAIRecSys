@@ -1,0 +1,2998 @@
+user_id	age	gender	education	career	income	address	hobby
+0	2	0	4	3	2	2	Play video games
+1	2	1	4	2	2	5	Painting
+2	2	0	3	8	0	17	Sing
+3	3	0	5	2	3	7	snowball fight
+4	3	0	2	5	0	8	skating
+5	4	0	1	14	0	24	farm
+6	3	1	4	0	2	10	play basketball
+7	3	0	4	2	1	33	water the flowers
+8	4	1	6	5	4	4	Reading
+9	4	1	4	3	1	6	Dance
+10	3	1	4	14	3	4	Fishing
+11	3	1	3	3	1	10	Fishing
+12	2	0	4	9	2	23	Playing mahjong
+13	3	0	4	0	2	6	Sing
+14	3	1	4	10	2	8	play ball
+15	3	0	3	7	2	10	Play video games
+16	3	1	3	7	1	15	Internet access
+17	2	0	4	4	3	1	Sister
+18	2	0	3	7	1	10	Music
+19	2	1	2	0	0	3	Running
+20	3	1	2	7	2	10	Games
+21	3	1	3	1	1	10	Fitness
+22	3	1	2	3	3	10	Eat
+23	3	1	3	0	1	10	Reading
+24	4	0	2	5	0	16	Guzheng
+25	3	1	5	14	1	10	Internet access
+26	2	1	4	7	0	16	play ball
+27	3	1	3	19	2	10	Billiards
+28	4	0	3	20	0	16	Reading
+29	2	1	4	0	2	3	swim
+30	3	0	4	10	1	16	Reading, listening to music, watching movies
+31	7	1	2	18	0	16	mountain climbing
+32	3	1	3	4	1	15	play table tennis
+33	3	0	2	20	1	17	embroidery
+34	3	1	3	1	1	16	play chasing
+35	4	1	4	4	3	4	Design advertising
+36	4	0	6	3	3	7	flower growing
+37	2	1	3	19	2	10	Play video games
+38	3	1	3	3	1	10	Fishing
+39	3	1	3	4	2	10	Eat chicken
+40	3	1	3	3	1	10	Reading
+41	6	1	4	4	2	18	play badminton
+42	3	0	5	3	3	7	Sing
+43	2	1	4	2	3	5	E-sports
+44	3	1	3	4	1	10	Listen to music
+45	4	1	4	1	3	10	Play video games
+46	4	1	3	19	1	3	Running
+47	3	0	4	3	2	4	Dance
+48	1	0	2	20	0	16	Watch TV
+49	2	1	3	18	1	10	Play video games
+50	3	1	3	4	1	10	Play video games
+51	3	1	3	4	1	10	play ball
+52	4	1	4	20	0	4	Reading
+53	4	0	2	9	1	29	swim
+54	4	0	2	20	0	16	Sleep
+55	5	1	3	8	1	14	reading tour
+56	2	0	3	1	2	4	Dance
+57	2	0	3	20	0	2	Sing
+58	4	0	3	20	0	16	Painting
+59	3	1	3	0	1	16	play basketball
+60	2	1	3	0	1	1	Play video games, watch movies
+61	1	0	2	10	0	15	Painting
+62	7	0	3	3	1	4	play basketball
+63	3	0	3	20	0	16	See a movie
+64	2	1	4	0	1	27	play basketball
+65	0	0	3	20	0	12	jigsaw
+66	2	1	4	2	2	3	traditional Chinese painting
+67	3	1	2	20	0	9	Play video games
+68	2	1	3	0	1	1	Painting
+69	2	0	3	15	0	16	Playing with mobile phones
+70	4	0	4	15	0	4	Reading
+71	3	0	3	5	0	16	I want nothing but to make money
+72	2	0	3	10	0	16	DANCE
+73	4	1	2	2	2	5	Running
+74	7	1	2	20	1	15	motorcycle hobby
+75	7	1	2	20	1	4	Playing cards
+76	2	0	3	20	0	2	Painting
+77	3	0	3	20	0	3	Painting
+78	4	1	4	2	2	6	Reading
+79	3	0	2	20	0	15	embroidery
+80	2	0	3	20	1	15	See a movie
+81	3	0	3	20	0	3	Painting
+82	2	0	3	20	0	3	Play
+83	5	0	4	16	1	10	Listen to music
+84	3	1	3	2	2	7	Play games, sing songs
+85	4	1	1	18	1	12	Movies, travel, food
+86	4	0	4	10	0	16	Play, reading, sports
+87	2	1	2	20	0	12	Female
+88	1	0	4	11	1	5	Pets
+89	2	1	3	0	0	12	Football, basketball, running, sports, etc
+90	2	0	3	4	0	6	Reading
+91	3	0	7	5	0	4	Reading
+92	2	0	4	0	1	7	Sing
+93	2	0	3	1	0	3	Five pages
+94	2	0	3	0	0	6	Badminton
+95	2	0	3	3	0	3	Reading
+96	3	0	3	2	0	6	Games
+97	4	0	3	2	1	7	Play
+98	5	0	7	20	0	6	Sleep
+99	2	0	3	10	0	15	DANCE
+100	5	1	4	3	1	8	Coffee, basketball
+101	3	0	4	0	0	27	drum set
+102	2	0	5	2	1	1	Read books, play video games
+103	4	0	4	20	0	2	Dance
+104	1	1	3	20	0	19	Music
+105	2	0	3	17	0	4	Tourism
+106	3	1	4	14	1	6	Sleep, play video games
+107	5	1	3	14	1	17	Tourism
+108	8	1	0	18	1	9	Reading, listening to plays, swimming
+109	2	0	5	10	1	8	Reading books, anime
+110	5	0	3	3	0	6	Music
+111	2	0	2	18	0	4	Tourism
+112	3	0	3	5	0	16	Playing with mobile phones
+113	8	0	0	18	0	16	Playing cards, swiping videos, chasing plays
+114	3	0	3	5	0	7	Reading
+115	2	0	3	5	0	8	cook
+116	4	1	3	4	1	6	Music
+117	5	0	3	11	1	16	Reading, shopping
+118	3	1	4	1	1	6	movement
+119	2	0	4	10	0	28	Read a book, walk the dog
+120	1	1	3	20	0	8	guitar
+121	1	0	3	20	0	23	play volleyball
+122	3	1	3	0	0	29	Read books, play video games, walk the dog
+123	3	0	3	20	0	15	Knitting, embroidery
+124	2	0	4	9	1	12	Photography
+125	4	1	4	0	0	27	Music
+126	1	1	4	20	0	6	Fitness
+127	2	1	3	0	1	27	fishing and hunting
+128	2	1	4	20	0	25	Play games, read books
+129	5	1	3	0	2	16	Travel
+130	2	0	2	2	1	21	play basketball
+131	2	1	4	0	0	27	play basketball
+132	3	1	3	0	1	27	Swimming and running
+133	2	1	2	20	0	15	play basketball
+134	3	0	4	3	1	7	Tourism
+135	4	0	4	11	1	16	Sing
+136	3	0	4	11	1	16	Painting
+137	4	0	2	12	0	3	Delicious food
+138	2	0	4	5	1	18	Sing
+139	3	1	3	0	1	27	swim
+140	5	1	3	14	1	16	Tourism
+141	2	1	3	0	0	27	Play video games
+142	4	1	4	0	0	27	Music
+143	1	1	3	15	1	23	Play video games, watch movies
+144	3	1	6	1	1	7	Swipe video, read a book
+145	2	0	4	20	1	17	Music
+146	6	1	4	2	1	16	sports reading and writing
+147	6	0	2	18	0	3	Sing
+148	4	1	4	0	0	27	Music
+149	4	1	2	19	1	3	Playing cards and drinking
+150	2	1	3	20	0	28	Play online games
+151	4	0	4	5	1	4	See a movie
+152	5	0	4	20	1	7	Reading
+153	2	0	4	3	2	1	Games
+154	2	0	2	20	0	7	Sing
+155	2	0	4	1	2	1	Running
+156	2	1	3	18	1	11	Fitness
+157	2	1	4	0	2	3	swim
+158	4	1	4	5	1	29	Play video games
+159	3	0	4	0	2	2	Painting
+160	3	1	5	0	2	3	Play video games
+161	4	0	4	2	1	29	See a movie
+162	6	1	2	18	0	14	Sing
+163	3	0	2	18	0	6	play chasing
+164	2	0	2	2	0	6	Play video games
+165	5	0	3	2	1	9	Reading, eating
+166	4	0	2	15	0	8	skating
+167	6	0	1	11	0	4	cook
+168	4	0	3	12	0	16	Tourism
+169	6	0	1	7	0	6	Sing
+170	4	1	2	1	2	7	Reading
+171	3	0	3	5	0	15	Reading
+172	5	0	2	14	0	8	make a gourmet meal
+173	6	1	4	20	1	5	mountain climbing
+174	4	1	2	7	0	16	Fight the Landlord
+175	4	0	3	10	0	7	Reading
+176	4	0	2	3	0	31	Delicious food
+177	3	1	4	0	2	5	Sing
+178	2	1	4	0	2	6	Painting
+179	2	0	5	0	2	8	Sing
+180	2	0	3	5	0	3	beauty make-up
+181	6	1	0	7	0	21	Sing
+182	4	0	1	18	1	1	go shopping
+183	2	1	5	0	3	3	Games
+184	2	0	4	0	1	6	Sing
+185	2	0	3	7	1	16	Food, travel
+186	2	0	4	20	0	6	None
+187	2	0	3	20	0	16	Tourism
+188	2	1	5	0	2	7	Games
+189	2	1	5	0	2	6	Running
+190	2	0	5	0	2	7	Running
+191	4	1	3	3	2	6	Reading
+192	1	0	2	20	0	7	Sing
+193	2	0	4	20	0	6	King
+194	2	0	4	20	0	2	Sing
+195	2	1	4	20	0	16	Play table tennis, tennis
+196	3	0	3	20	0	3	Sleep
+197	2	1	5	0	2	6	swim
+198	5	0	1	7	0	27	Food, books
+199	5	0	1	18	0	4	Watching plays, shopping
+200	4	0	3	10	0	16	Dancing, watching plays
+201	2	0	4	20	0	10	Take a picture
+202	4	0	1	18	0	16	Dance, listen to music
+203	2	1	3	0	0	16	Games
+204	2	0	4	18	0	6	Listen to music
+205	1	0	2	20	0	7	Sing
+206	3	1	3	1	1	1	Playing cards
+207	2	1	4	0	3	1	Running
+208	1	1	4	20	0	6	Games
+209	5	1	3	19	1	16	self-driving tour
+210	1	1	4	20	0	6	network
+211	2	1	4	18	0	7	E-sports cooking
+212	7	1	4	4	1	16	Movies, travel
+213	5	0	3	10	0	4	handcraft
+214	2	0	4	20	0	6	DANCE
+215	2	0	4	20	0	6	Listen to music
+216	2	1	4	20	0	4	Internet access
+217	1	1	4	20	0	6	Games
+218	4	0	5	10	0	6	Delicious food
+219	2	0	4	20	0	6	Listen to music
+220	8	1	2	20	0	6	Watch TV
+221	2	1	4	20	0	6	None
+222	3	0	3	20	0	2	Dance
+223	2	0	3	20	0	3	Play
+224	1	0	4	20	0	6	movement
+225	2	1	4	20	0	6	movement
+226	4	1	5	2	4	6	Running
+227	3	0	2	0	2	15	Dance
+228	3	0	4	20	0	6	Music
+229	8	0	2	20	0	6	Dance
+230	5	1	6	4	1	18	Computer Writing Photography
+231	3	1	4	20	1	16	Travel, food
+232	3	1	3	0	0	16	Technology, food
+233	4	0	4	20	0	3	Play
+234	3	1	4	20	0	6	Football
+235	2	1	4	20	0	6	basketball
+236	3	0	4	20	0	2	Reading
+237	2	0	3	20	0	3	Dance
+238	5	0	3	11	0	4	Learning
+239	4	0	3	20	0	3	Reading
+240	3	0	2	1	0	7	Sing
+241	2	1	4	20	0	6	Sports
+242	2	0	3	20	0	3	Painting
+243	5	0	2	4	1	8	beauty make-up
+244	2	0	3	20	0	3	Taekwondo
+245	2	0	4	20	0	6	Dance
+246	2	0	4	20	0	3	Sing
+247	3	1	4	9	1	6	film
+248	3	0	4	0	1	15	Manual
+249	2	1	4	20	0	6	None
+250	4	0	1	20	0	16	Dance
+251	5	0	3	3	0	28	Eat. Eat
+252	2	0	4	20	0	6	Watch the play
+253	2	1	4	20	0	6	Golf
+254	2	0	4	20	0	6	Listen to music
+255	2	1	4	20	0	15	Games
+256	2	0	4	20	0	6	Listen to music
+257	1	1	4	16	1	16	Play video games
+258	2	0	4	5	1	10	Exercise, music, cooking
+259	2	1	4	20	0	6	Military
+260	2	1	4	20	0	6	Football
+261	5	0	4	20	0	8	play
+262	2	0	3	20	0	3	Painting
+263	4	0	3	5	0	11	Dancing, reading
+264	2	0	4	20	0	6	Football
+265	2	1	4	20	0	6	Running
+266	2	0	4	18	0	16	Music
+267	6	1	2	18	1	9	swim
+268	2	0	4	18	0	16	Reading
+269	2	0	4	2	0	16	Fitness Travel Music
+270	5	1	2	7	0	15	cook
+271	2	0	4	20	1	12	Reading
+272	6	1	4	18	1	1	Reading
+273	2	1	4	20	0	16	Games
+274	2	1	3	3	2	16	Fitness
+275	2	0	3	20	0	3	Sing
+276	2	0	4	18	0	6	Listen to music
+277	3	0	2	3	0	3	Reading
+278	5	0	2	10	0	6	Watch TV
+279	4	0	2	10	0	4	literature
+280	2	0	4	18	0	6	Music
+281	2	0	3	5	0	16	Work
+282	5	0	2	20	0	8	Play video games
+283	6	0	4	3	0	4	Tourism
+284	6	0	4	4	3	1	Travel
+285	4	0	3	20	0	3	Sleep
+286	4	0	4	5	1	6	Sing
+287	4	1	4	3	2	6	Watch TV
+288	4	1	3	4	2	16	Tourism
+289	3	0	4	20	0	3	Sing
+290	5	0	4	3	1	6	Dance
+291	4	1	4	20	1	6	Music
+292	5	1	4	4	2	6	Table tennis
+293	2	1	4	1	1	27	Play
+294	5	1	4	20	1	3	write poetry
+295	6	0	4	20	0	2	Manual
+296	2	0	3	20	0	3	Play
+297	2	0	4	20	0	3	Painting
+298	2	1	4	20	0	8	Reading
+299	5	1	4	4	1	6	Drink
+300	2	1	4	20	0	6	basketball
+301	2	0	4	20	0	1	Reading
+302	1	0	4	20	0	11	Music
+303	3	1	2	20	0	9	Play video games
+304	4	0	4	4	1	6	Dance
+305	6	1	5	10	0	6	Music
+306	5	1	4	2	2	6	play basketball
+307	3	0	4	20	1	3	Sing
+308	4	0	3	16	1	16	Sing
+309	5	1	4	5	2	6	Sing
+310	3	0	4	20	0	16	swim, fitness, reading
+311	5	1	4	2	2	6	Table tennis
+312	1	0	4	20	0	14	See a movie, read a novel
+313	2	0	4	20	1	7	Sing
+314	2	1	3	20	0	6	movement
+315	2	0	4	20	0	6	Play video games
+316	4	0	2	20	0	27	Travel, read books
+317	2	0	3	20	0	3	Sing
+318	3	1	4	4	4	1	Photography
+319	2	0	4	0	1	8	play ball
+320	2	0	4	0	0	6	flute
+321	5	1	4	5	2	6	play basketball
+322	4	0	4	3	1	6	Reading
+323	2	1	4	0	1	6	Military
+324	2	0	3	3	0	7	Sing
+325	2	0	4	0	1	6	Reading
+326	5	1	5	1	2	2	Reading
+327	2	0	4	10	0	6	Tennis
+328	2	1	4	0	0	6	basketball
+329	3	1	4	0	1	8	Games
+330	5	0	4	5	2	6	Listen to music
+331	4	0	4	3	1	6	Reading
+332	2	1	4	0	1	5	Reading
+333	2	1	4	0	0	6	diving
+334	2	1	4	0	0	6	basketball
+335	2	1	3	0	0	6	rap
+336	2	1	4	0	1	6	movement
+337	4	0	3	18	0	6	Manual
+338	2	0	4	10	0	6	ballet
+339	2	0	4	2	1	6	baking
+340	2	1	4	0	1	6	basketball
+341	2	1	4	0	1	6	rap
+342	2	0	4	0	1	6	Reading
+343	6	0	5	20	1	6	None
+344	5	1	4	3	1	6	Listen to music
+345	2	0	4	3	0	6	Food, travel
+346	2	0	4	20	0	3	Painting
+347	2	1	4	10	1	6	flower
+348	3	1	4	0	1	3	None
+349	2	0	4	5	0	6	I like hip-hop
+350	3	0	4	0	1	6	Reading
+351	2	1	4	0	0	6	basketball
+352	2	0	4	0	1	7	Games
+353	4	0	2	4	1	25	Manual
+354	2	1	4	0	0	6	Badminton
+355	2	0	4	0	3	6	Dance
+356	2	0	4	0	0	6	chatter
+357	3	1	4	3	1	8	See a movie
+358	4	0	4	1	1	6	Sing
+359	2	0	4	20	1	6	Sing
+360	5	0	3	4	1	6	beauty make-up
+361	2	0	4	2	2	6	Fitness
+362	2	0	4	1	0	6	Yoga
+363	2	0	3	18	0	6	Beauty, skiing
+364	2	1	4	0	1	7	play ball
+365	4	0	4	3	1	6	Reading
+366	2	1	4	5	1	6	Running
+367	2	0	4	0	2	6	Photography
+368	2	1	4	0	0	6	basketball
+369	3	1	3	20	0	6	swim
+370	2	0	4	17	0	17	Chinese chess
+371	3	0	4	0	0	6	Watch Korean dramas
+372	2	1	4	0	1	7	mountain climbing
+373	2	0	4	0	1	6	play chess
+374	2	0	4	5	0	6	Reading
+375	5	0	4	0	2	6	Reading
+376	4	1	4	1	3	7	locomotive
+377	2	1	4	5	0	6	Food, travel
+378	2	0	4	0	1	6	Learning
+379	2	0	4	7	0	16	Gobang
+380	2	1	4	0	1	4	Running
+381	2	1	4	0	1	6	movement
+382	5	0	5	20	1	6	ski
+383	3	0	3	3	2	7	Dance
+384	2	0	4	0	0	6	Tourism
+385	2	1	4	0	0	6	basketball
+386	2	1	4	0	0	6	Coffee
+387	4	0	4	2	3	3	Painting
+388	4	0	3	4	0	6	King
+389	4	1	5	1	3	1	Games
+390	2	0	4	0	1	6	Dance
+391	4	1	3	18	1	3	Running
+392	3	1	3	20	0	6	swim
+393	3	1	4	4	3	6	Games
+394	2	1	4	0	1	6	Billiards
+395	2	1	4	0	1	5	swim
+396	4	1	4	3	3	7	locomotive
+397	2	0	3	5	0	4	literature
+398	4	1	3	0	2	7	basketball
+399	4	0	2	17	0	6	Travel, read books
+400	2	1	4	0	1	6	Photography
+401	2	0	4	17	0	4	baseball
+402	2	1	4	0	0	6	basketball
+403	2	1	3	3	0	6	Food, sports
+404	2	0	4	0	2	6	Sing
+405	2	1	3	11	1	6	Play video games
+406	2	1	4	0	1	6	Fitness
+407	3	0	3	20	0	6	swim
+408	6	1	4	4	2	6	Watch TV
+409	3	1	4	0	1	1	None
+410	1	0	4	5	0	6	Reading
+411	2	0	4	0	1	7	play ball
+412	4	1	4	1	2	7	locomotive
+413	4	1	4	1	2	1	Play games
+414	4	1	2	20	0	8	None
+415	2	1	4	0	0	6	Photography
+416	2	0	4	0	1	6	Fitness
+417	2	1	4	0	1	6	basketball
+418	1	0	5	5	2	6	Extreme sports
+419	2	1	5	4	2	6	Running
+420	2	1	4	0	0	6	basketball
+421	2	1	4	0	1	7	play ball
+422	2	1	4	0	1	6	basketball
+423	3	1	3	20	0	6	swim
+424	6	1	5	0	2	6	Sing
+425	3	0	0	0	0	5	Game Animation Science Fiction
+426	2	0	4	0	0	8	Science fiction animation games
+427	4	1	2	0	0	7	Game Animation Science Fiction
+428	2	1	3	0	0	6	Food, travel
+429	4	0	4	3	1	6	Reading
+430	2	0	4	1	2	7	Dance
+431	2	0	2	0	0	6	Game Animation Science Fiction
+432	5	1	4	1	2	6	swim
+433	4	0	2	0	2	8	Extreme sports
+434	3	0	4	0	1	6	Running, picnicking
+435	5	0	2	1	2	6	locomotive
+436	3	0	4	0	0	6	Korean Drama Funny Knowledge
+437	3	0	1	3	0	4	handcraft
+438	2	1	4	0	0	6	Reading
+439	2	1	4	0	0	6	Football
+440	2	1	4	0	0	6	Surfing the Internet
+441	1	1	4	0	1	6	Sing
+442	1	0	4	0	1	6	Volleyball
+443	2	1	4	0	1	25	None
+444	2	1	4	0	1	7	basketball
+445	2	0	4	0	1	6	Reading
+446	2	0	4	1	0	2	Listen to music
+447	2	0	4	3	2	6	violin
+448	2	1	4	0	0	6	basketball
+449	2	1	4	19	2	6	flower
+450	2	1	4	0	1	7	play ball
+451	1	0	3	20	0	6	Painting
+452	2	0	4	20	0	19	Music
+453	2	1	3	0	3	7	basketball
+454	2	1	4	0	2	3	Learning
+455	2	1	4	0	0	6	martial arts
+456	6	0	0	3	4	6	Sleep, eat
+457	2	0	4	0	1	6	Reading
+458	2	0	4	0	0	3	Painting
+459	2	1	4	0	0	6	play chess
+460	1	0	4	0	2	6	play the piano
+461	2	1	4	0	0	6	boxing
+462	2	1	4	0	0	6	basketball
+463	2	1	4	0	1	6	Badminton
+464	3	1	5	0	2	7	basketball
+465	2	1	4	0	1	6	Table tennis
+466	2	1	4	0	1	6	basketball
+467	2	1	4	1	1	7	Sing
+468	2	1	3	10	1	6	painting
+469	2	0	4	1	2	6	DANCE
+470	2	1	3	0	1	6	Sing
+471	2	0	4	2	0	4	ski
+472	2	1	4	0	1	6	movement
+473	2	0	4	0	1	6	Fitness
+474	2	1	4	0	0	6	Running
+475	2	1	4	0	0	6	Play video games
+476	2	1	4	0	1	8	None
+477	2	1	4	0	0	6	basketball
+478	3	1	4	0	1	6	basketball
+479	2	0	4	1	1	6	Guzheng
+480	2	1	4	0	1	6	Listen to music
+481	4	1	2	0	3	6	basketball
+482	2	1	4	0	0	6	cooking
+483	2	1	4	0	0	6	movement
+484	3	1	4	0	2	2	Chinese chess
+485	2	1	4	0	1	6	boating
+486	1	1	3	4	1	6	flower
+487	2	1	4	4	1	6	Badminton
+488	2	1	4	0	0	6	Volleyball
+489	3	0	2	18	1	6	Morning run, skiing
+490	2	1	4	0	0	6	basketball
+491	2	0	5	2	2	6	Tourism
+492	5	0	4	5	0	6	Reading
+493	4	0	3	19	0	6	Photography
+494	2	1	4	0	0	6	Running
+495	2	0	4	17	0	7	basketball
+496	3	1	4	0	3	7	basketball
+497	1	1	4	0	1	6	play basketball
+498	1	0	2	20	0	6	Listen to music
+499	2	1	4	0	0	6	Fitness
+500	2	0	4	0	1	7	Fitness
+501	2	1	4	0	1	6	Sing
+502	2	1	4	4	2	6	flower
+503	2	0	4	14	0	7	play the guitar
+504	2	1	4	0	0	6	Sing
+505	2	1	4	0	0	6	self-driving
+506	2	1	4	0	0	6	basketball
+507	2	1	4	0	0	6	Play video games
+508	2	1	4	0	0	6	basketball
+509	4	0	3	1	2	6	locomotive
+510	4	0	2	2	2	8	basketball
+511	1	1	6	1	0	3	Sleep
+512	2	1	4	0	2	6	movement
+513	2	1	4	2	1	6	movement
+514	2	1	4	0	1	6	be in a daze
+515	2	0	4	18	0	6	Writing
+516	3	1	3	20	0	6	swim
+517	2	1	3	9	1	6	Tourism
+518	1	1	4	0	0	6	Play video games
+519	4	0	2	2	2	6	locomotive
+520	2	0	4	10	1	6	play the piano
+521	2	1	4	0	1	6	None
+522	2	1	4	0	0	6	basketball
+523	3	0	3	7	1	15	Make a video
+524	2	0	2	7	0	11	fruit
+525	2	1	4	1	2	7	basketball
+526	3	1	3	20	0	6	swim
+527	2	1	3	0	1	6	Learning
+528	2	1	4	0	0	6	movement
+529	2	1	4	2	1	6	basketball
+530	3	1	4	0	1	6	movement
+531	2	0	4	0	1	6	Reading
+532	3	0	3	17	0	6	Food, drama
+533	2	1	4	0	0	6	movement
+534	2	0	4	1	0	6	Classical music
+535	2	1	4	0	0	6	Sing
+536	2	1	4	0	0	6	basketball
+537	5	1	3	1	1	6	Games
+538	2	0	4	0	1	6	baseball
+539	2	0	4	0	1	6	Work
+540	2	0	2	1	1	6	locomotive
+541	1	1	4	0	0	6	rock and roll
+542	3	1	3	20	0	6	swim
+543	2	0	3	13	0	6	Food, travel
+544	2	0	4	5	0	6	Food, travel
+545	4	1	3	0	2	8	basketball
+546	2	0	4	1	0	6	mountain climbing
+547	2	0	4	0	0	3	Extreme sports
+548	2	1	4	0	0	6	Football
+549	4	1	5	16	2	6	Running
+550	3	0	4	0	1	6	Writing
+551	3	1	4	0	0	6	Billiards
+552	2	1	4	0	0	6	movement
+553	3	1	4	0	1	7	Games
+554	2	1	4	0	2	7	basketball
+555	3	1	1	0	0	6	Game animation funny science fiction
+556	2	0	4	20	0	6	Gourmet, handmade
+557	2	0	4	4	0	6	Taekwondo
+558	2	1	4	0	1	6	swim
+559	4	0	3	0	2	6	locomotive
+560	3	0	4	3	1	6	Tourism
+561	2	1	4	0	0	6	Reading
+562	2	1	4	0	0	6	Reading
+563	3	1	3	20	0	6	swim
+564	3	1	4	5	2	6	car
+565	2	1	4	0	0	6	Football
+566	3	0	3	2	3	7	Extreme sports
+567	1	0	4	0	1	6	Billiards
+568	2	1	4	2	1	6	movement
+569	2	1	4	0	1	7	Military
+570	4	0	3	5	1	16	Tourism
+571	2	1	4	0	0	6	movement
+572	2	1	4	0	0	6	Reading
+573	3	1	4	0	2	1	basketball
+574	4	0	3	5	0	15	Delicious food
+575	3	1	2	1	1	4	swim
+576	5	0	3	20	0	27	Travel, music
+577	2	1	4	0	0	6	Hiking
+578	3	1	3	1	2	7	basketball
+579	4	0	4	5	0	3	Tourism
+580	4	0	4	20	0	16	Travel Painting Music Movies
+581	4	0	3	20	2	16	Take a picture
+582	4	1	3	0	1	16	Electronics, technology
+583	3	0	2	20	0	16	plant flowers
+584	1	1	4	3	1	2	play billiards
+585	3	0	3	5	1	27	Tourism
+586	5	0	4	20	0	3	mountain climbing
+587	2	0	4	1	0	6	Billiards
+588	2	1	3	0	1	7	basketball
+589	2	0	4	20	1	6	Sing
+590	3	0	5	2	2	6	Games
+591	1	1	4	0	0	6	basketball
+592	2	0	4	3	2	6	Painting
+593	2	0	4	2	0	6	Travel, read books
+594	2	1	4	1	1	6	Tourism
+595	6	0	0	5	4	6	Eat, eat, sleep
+596	2	1	4	0	1	6	movement
+597	2	0	4	0	1	7	play chess
+598	2	0	4	4	0	6	Dance
+599	2	1	4	0	1	6	Sing
+600	2	1	4	0	0	6	movement
+601	2	1	4	0	0	6	Football
+602	3	0	3	2	1	3	Painting
+603	5	1	2	6	4	6	Sleep
+604	2	1	4	0	1	6	mountaineering
+605	2	1	4	1	1	6	hip-hop
+606	1	0	4	10	0	14	play table tennis
+607	1	1	2	20	0	3	Watch TV series
+608	2	0	4	4	0	6	Rugby
+609	2	0	4	0	1	3	swim
+610	3	1	3	0	2	8	basketball
+611	5	0	4	1	1	4	Games
+612	2	1	4	0	0	6	movement
+613	3	1	4	0	2	6	Music
+614	3	1	3	20	0	6	swim
+615	2	1	4	0	0	6	play basketball
+616	2	1	4	0	0	6	movement
+617	2	1	4	1	2	6	Football
+618	3	1	4	0	1	6	swim
+619	2	0	4	2	0	6	Table tennis
+620	2	1	4	0	1	6	movement
+621	2	1	4	0	0	6	calligraphy
+622	2	1	4	2	2	6	Running
+623	1	0	2	2	0	6	Tourism
+624	2	1	4	0	0	6	movement
+625	2	1	4	0	1	6	Badminton
+626	2	0	3	0	0	6	Food, games
+627	2	0	4	3	0	6	Play video games
+628	5	1	5	10	1	6	movement
+629	3	0	4	0	1	6	Music
+630	4	0	3	1	1	6	locomotive
+631	3	0	4	2	1	6	Eat delicious food
+632	3	1	3	0	1	1	Sing
+633	2	0	4	2	0	6	guitar
+634	2	0	4	0	1	6	Reading
+635	2	1	4	0	0	6	self-driving
+636	5	0	4	5	1	17	Painting
+637	3	1	4	1	2	6	flower
+638	2	1	4	0	1	6	movement
+639	4	0	4	0	2	6	Extreme sports
+640	4	1	4	0	0	6	swim
+641	3	0	3	0	1	6	basketball
+642	3	1	3	20	0	6	swim
+643	2	1	4	0	1	6	piano
+644	4	0	3	1	1	6	locomotive
+645	2	1	4	0	0	6	swim
+646	2	0	4	0	1	6	Ride a bike
+647	2	0	3	0	0	6	Food, travel
+648	2	0	4	1	1	6	Music
+649	2	0	4	7	0	6	Sing
+650	2	1	4	0	0	6	movement
+651	2	1	4	0	0	6	cook
+652	2	0	6	3	1	8	electronic organ
+653	1	1	4	1	2	6	Reading
+654	4	0	4	3	1	6	make a gourmet meal
+655	2	0	3	11	0	6	Delicious food
+656	2	0	4	0	1	4	Go
+657	1	0	3	20	0	6	Sing
+658	2	1	4	0	1	6	movement
+659	3	0	4	1	2	6	Reading
+660	2	0	4	0	1	6	movement
+661	2	1	4	0	0	6	baseball
+662	2	0	3	0	0	6	Food, travel
+663	2	1	4	0	0	6	basketball
+664	2	0	4	5	0	6	read a novel
+665	1	0	4	20	0	6	cook
+666	5	1	4	4	2	6	flower
+667	3	1	3	20	0	6	swim
+668	2	1	4	0	0	6	chat
+669	2	0	4	0	1	2	play basketball
+670	2	0	4	2	0	6	Comics
+671	2	1	4	0	1	6	Fitness
+672	2	0	4	4	1	6	Sing
+673	3	1	4	17	1	6	Travel, play games
+674	3	1	3	0	1	1	basketball
+675	2	0	4	0	0	6	Football
+676	1	1	4	0	1	6	movement
+677	5	0	3	20	0	6	sign language
+678	2	1	4	0	1	6	movement
+679	2	0	4	0	1	6	piano
+680	2	1	4	0	0	6	Games
+681	4	0	4	3	1	6	make a gourmet meal
+682	3	1	2	2	3	6	flower
+683	2	1	4	0	0	6	basketball
+684	3	1	3	0	1	1	Extreme sports
+685	2	1	3	3	1	3	play basketball
+686	2	1	4	0	0	6	play badminton
+687	2	0	4	4	0	6	Food, swimming
+688	2	0	4	5	0	6	play chasing
+689	2	1	3	2	0	6	Sleep
+690	3	1	3	20	0	6	swim
+691	2	0	4	2	0	6	Badminton
+692	2	0	4	0	1	6	Reading
+693	2	1	4	0	0	6	guitar
+694	2	1	4	0	0	6	basketball
+695	2	1	4	3	1	6	Running
+696	1	1	4	0	1	6	movement
+697	2	1	4	0	0	6	Running
+698	2	1	4	0	2	6	Fitness
+699	2	0	4	0	1	8	Chinese chess
+700	2	1	4	0	1	5	swim
+701	2	1	4	0	0	6	Football
+702	5	0	3	0	1	6	locomotive
+703	2	0	3	0	0	6	Food, games, travel
+704	2	1	1	0	0	6	Game Animation Science Fiction Music
+705	3	0	4	1	0	7	Swimming, reading, traveling
+706	2	0	4	20	0	6	Sleep
+707	3	1	3	20	0	6	swim
+708	3	0	4	0	0	6	Extreme sports
+709	4	0	4	3	1	6	make a gourmet meal
+710	2	0	4	0	0	6	Sing
+711	5	0	4	20	0	15	Listen to music
+712	5	0	3	0	1	6	locomotive
+713	2	0	3	0	0	6	Food, games, music
+714	3	1	1	0	0	6	Science fiction animation games
+715	3	1	3	20	0	6	swim
+716	3	1	3	2	0	6	basketball
+717	2	0	5	3	2	3	Running
+718	3	1	4	2	0	6	Reading
+719	6	1	2	20	1	6	Sing
+720	5	1	4	0	1	27	swim
+721	3	0	4	1	1	2	play basketball
+722	4	1	4	0	1	6	Running
+723	3	1	3	0	0	4	Play video games
+724	2	1	4	0	2	1	Tourism
+725	3	0	4	0	0	29	Delicious food
+726	4	1	4	0	3	19	mountain climbing
+727	1	1	3	20	0	6	play basketball
+728	2	1	3	20	0	6	basketball
+729	3	0	4	0	0	2	play basketball
+730	2	0	4	2	1	2	play badminton
+731	2	0	4	0	1	1	Listen to music
+732	2	1	4	0	0	4	Listen to music
+733	2	1	4	0	0	3	Ride a bike
+734	2	0	3	16	1	19	Reading
+735	3	1	3	20	1	6	Sing
+736	2	0	3	20	0	6	Sing
+737	2	1	3	20	0	6	Games
+738	1	0	3	20	0	6	Play games
+739	2	0	3	0	0	6	Eat delicious food
+740	3	0	4	20	0	6	Painting, sculpture, travel
+741	5	1	4	18	0	6	Delicious food
+742	2	1	3	0	1	15	movement
+743	3	0	4	3	2	7	Dance
+744	2	0	4	0	1	8	None
+745	1	0	4	20	0	6	Play video games
+746	2	1	3	20	1	6	Sing
+747	5	0	4	1	2	6	Painting
+748	5	0	4	6	4	7	Tourism
+749	1	0	3	20	0	6	Dance
+750	6	0	2	5	0	6	Sing
+751	2	1	4	0	0	6	play basketball
+752	2	1	4	0	0	6	Play games
+753	2	1	4	0	0	6	self-driving
+754	2	1	4	0	0	6	Riding
+755	2	1	4	0	0	6	Play games
+756	2	1	4	0	0	6	Tourism
+757	2	1	5	2	1	2	swim
+758	2	1	4	0	0	6	Photography
+759	1	0	4	10	0	14	play badminton
+760	4	0	3	20	0	4	Music
+761	4	0	3	7	1	18	Reading
+762	2	1	3	20	0	6	Games
+763	2	1	4	20	0	6	Games
+764	4	0	3	20	2	5	Chasing drama, costume drama, cooking food
+765	1	1	3	20	0	16	play basketball
+766	4	1	1	5	1	16	Games, music, novels
+767	2	1	3	20	0	6	basketball
+768	3	1	4	20	1	6	play basketball
+769	2	0	4	20	0	4	Painting
+770	2	0	4	1	1	6	Listen to music
+771	2	1	4	0	0	6	Programming
+772	1	1	4	0	1	6	Running
+773	2	1	3	2	2	4	basketball
+774	3	0	4	20	0	16	Gourmet Pet Handicraft
+775	2	1	4	0	0	6	Football
+776	4	1	2	10	0	6	Sing
+777	2	1	3	20	0	6	Games
+778	2	1	4	3	1	6	Painting
+779	1	1	4	0	1	6	Painting
+780	2	1	5	0	1	6	swim
+781	4	0	4	11	0	3	Painting
+782	2	1	4	0	0	6	Dance
+783	2	1	4	0	1	8	movement
+784	4	0	4	18	1	6	Sing
+785	4	1	4	0	3	4	flight
+786	2	1	4	0	0	6	Games
+787	2	1	4	0	0	6	hip-hop
+788	3	1	4	0	1	6	health preservation
+789	2	1	4	5	1	6	Tourism
+790	2	1	4	4	0	6	Running
+791	3	0	4	3	0	4	Cut video
+792	2	1	4	0	1	6	movement
+793	2	0	3	2	3	17	Badminton
+794	2	0	4	0	1	6	movement
+795	2	1	4	0	0	6	Badminton
+796	1	1	4	0	1	6	movement
+797	2	0	4	0	1	15	Sing
+798	2	1	4	0	0	6	play basketball
+799	1	0	4	0	1	6	Sing
+800	2	1	4	0	0	6	movement
+801	2	0	4	0	1	6	cooking
+802	2	1	4	0	1	6	ski
+803	2	1	4	2	1	6	Painting
+804	2	1	4	0	1	6	Delicious food
+805	1	0	4	20	0	6	Sing
+806	2	0	4	0	1	1	Fishing
+807	1	0	2	20	0	3	Dance, swipe video
+808	3	1	4	0	2	8	basketball
+809	2	1	4	0	0	6	play the drums
+810	6	0	4	16	1	9	Shake, watch plays, read novels, sing songs
+811	3	1	4	1	1	6	Running
+812	2	1	3	18	0	6	Fitness
+813	2	1	3	18	0	6	Play video games
+814	5	1	2	1	2	7	basketball
+815	2	1	4	20	0	12	Reading
+816	2	1	4	0	0	6	Fitness
+817	2	1	3	18	1	6	Sing
+818	2	0	4	3	2	6	Badminton
+819	2	1	4	20	0	4	Music
+820	2	1	4	0	0	6	basketball
+821	1	1	4	0	1	6	movement
+822	1	1	3	18	0	6	Fitness
+823	2	1	4	0	1	6	singing and dancing
+824	2	0	4	0	1	6	None
+825	5	0	4	3	0	19	Reading, traveling, surfing the Internet
+826	2	1	4	0	0	6	long-distance running
+827	2	0	4	0	1	4	camping
+828	2	0	4	3	1	19	Listen to music and play games
+829	2	1	3	18	0	7	Play video games
+830	1	1	4	0	1	8	Rap and dance
+831	3	1	4	0	2	3	Sing
+832	2	1	4	2	2	6	flower
+833	1	1	4	0	2	1	Fitness
+834	4	0	2	20	1	16	Sing
+835	1	1	3	20	0	16	basketball
+836	2	1	4	0	0	6	E-sports
+837	2	1	4	0	2	6	instrumental music
+838	2	1	3	20	0	6	Computer games
+839	2	0	4	20	0	6	read a novel
+840	2	1	4	0	0	6	Volleyball
+841	2	0	4	0	1	8	Sing
+842	1	1	3	18	0	6	Listen to music
+843	2	1	4	19	0	4	Fitness
+844	2	1	4	20	0	4	Painting
+845	2	0	3	10	0	6	Sing
+846	1	0	3	20	0	6	Listen to music
+847	1	0	3	20	0	6	Dance
+848	1	1	4	0	1	6	movement
+849	2	0	4	0	1	6	piano
+850	2	0	3	0	1	20	basketball
+851	2	1	3	0	0	6	None
+852	2	1	4	0	1	6	basketball
+853	2	0	4	0	1	6	glide
+854	1	0	4	0	1	6	Running
+855	2	1	4	0	1	6	Table tennis
+856	2	1	4	0	2	6	movement
+857	3	0	4	4	0	6	Reading
+858	2	0	4	0	1	7	mountain climbing
+859	2	1	4	0	0	6	Running
+860	2	1	4	0	0	6	Reading
+861	2	1	4	0	0	6	movement
+862	3	1	4	0	1	7	basketball
+863	1	1	4	0	1	6	travel photography
+864	2	1	4	0	0	6	movement
+865	3	1	4	0	2	16	basketball
+866	2	1	4	0	1	6	movement
+867	2	1	4	0	1	6	None
+868	1	1	4	0	1	6	Writing
+869	2	1	4	0	2	6	Dance
+870	3	1	4	0	1	6	Football
+871	2	0	4	0	1	6	Chinese chess
+872	2	1	4	0	0	6	ski
+873	2	0	4	0	2	7	None
+874	2	1	4	2	1	6	basketball
+875	2	1	4	0	0	6	basketball
+876	2	0	4	0	0	6	Listen to music
+877	2	1	4	0	0	6	cooking
+878	2	1	4	0	0	6	Marathon
+879	2	1	4	0	0	6	Football
+880	1	1	4	0	0	6	Basketball photography
+881	3	0	4	0	2	8	basketball
+882	2	1	4	1	1	6	Music
+883	2	1	4	0	1	6	None
+884	1	0	4	20	0	6	Reading, listening to music
+885	2	1	4	0	0	6	Play games
+886	2	0	4	0	1	6	movement
+887	6	1	5	10	0	6	See a movie, watch a TV show
+888	1	0	2	20	0	7	Sing
+889	2	1	4	20	0	6	movement
+890	2	0	4	18	0	3	Read novels, swipe videos
+891	2	0	4	10	0	7	play the drums
+892	2	1	4	0	0	6	basketball
+893	2	1	4	18	0	6	Music, games, animation
+894	1	1	4	0	1	6	E-sports
+895	2	0	4	0	1	6	Music
+896	2	0	4	0	1	7	swim
+897	2	1	4	0	2	6	Painting
+898	3	1	4	2	2	23	basketball
+899	2	1	4	0	0	6	ski
+900	2	0	4	3	1	6	Reading
+901	2	1	2	2	1	6	Painting
+902	2	1	4	0	0	6	Sing
+903	2	0	4	0	1	6	Reading
+904	2	1	4	0	0	6	Sing
+905	2	0	4	0	1	16	mountain climbing
+906	3	0	4	0	2	10	Programming
+907	2	1	4	0	1	6	play basketball
+908	2	1	4	4	1	6	Football
+909	4	1	5	0	3	19	Play video games
+910	2	1	4	20	0	6	Reading
+911	5	0	3	20	0	6	Play video games
+912	4	1	4	19	2	6	Play video games
+913	2	1	4	0	0	6	movement
+914	3	0	5	0	4	7	basketball
+915	3	1	4	10	2	8	Delicious food
+916	1	1	4	0	0	6	Skiing, swimming
+917	2	1	4	0	0	6	play ball
+918	5	1	6	0	4	9	play basketball
+919	2	0	4	0	3	6	Fitness
+920	2	1	4	0	1	6	exercise
+921	2	1	4	0	0	6	Have some chicken fingers
+922	1	1	4	0	0	6	Football
+923	2	1	4	0	1	6	Sports, singing
+924	1	1	4	0	1	6	movement
+925	2	0	4	0	1	6	Chinese chess
+926	2	0	4	0	1	6	Reading
+927	2	1	4	0	0	6	Dance
+928	2	1	4	0	0	6	kick a ball
+929	2	1	3	0	0	6	Painting
+930	3	0	4	20	3	6	Skin care
+931	2	1	4	0	0	6	swim
+932	1	1	4	0	0	6	Photographic travel
+933	2	1	4	0	0	6	mountaineering
+934	2	1	4	0	0	6	Play games
+935	2	0	4	0	1	6	Gobang
+936	2	1	4	0	1	6	Billiards
+937	2	1	4	0	1	6	movement
+938	2	1	4	0	0	6	basketball
+939	1	1	4	0	1	6	Learning
+940	2	1	3	5	0	6	flower
+941	1	0	3	1	1	6	Yoga
+942	3	1	4	0	2	4	rap
+943	2	0	4	0	1	6	calligraphy
+944	2	1	4	0	0	6	Sing
+945	2	1	4	0	0	6	swim
+946	1	0	3	0	0	6	Drawing =-
+947	2	0	4	0	1	6	Go
+948	2	1	4	0	1	6	Playing basketball, singing
+949	2	1	4	0	0	6	Bath
+950	2	1	3	5	0	6	A lot
+951	2	1	4	0	0	6	Running
+952	2	1	4	0	0	6	movement
+953	2	1	4	0	1	6	Sports,
+954	2	1	4	0	1	6	Electronics
+955	3	0	4	0	1	6	DANCE
+956	2	1	4	0	0	6	basketball
+957	2	1	4	0	1	6	None
+958	2	1	4	0	0	6	Sing
+959	5	1	6	0	4	8	Badminton
+960	2	1	4	0	0	6	Riding
+961	2	0	4	0	0	6	Music
+962	6	1	5	0	4	6	Programming
+963	7	0	1	18	1	2	Mobile games
+964	2	1	3	3	0	6	Play games
+965	6	1	0	15	3	6	Sing
+966	3	1	4	14	2	1	drawing
+967	2	0	5	5	1	6	Eat
+968	2	1	4	5	0	6	Reading
+969	4	1	3	20	2	6	Billiards
+970	8	0	2	20	0	6	None
+971	0	0	0	20	0	6	Sing
+972	3	1	4	13	1	8	Delicious food
+973	8	1	2	20	0	6	Reading
+974	4	0	4	10	0	6	Play games
+975	4	1	4	0	0	6	Play games
+976	3	1	4	0	1	6	play chess
+977	3	1	4	20	1	8	basketball
+978	3	1	4	0	2	9	play chasing
+979	3	1	1	1	0	17	Games
+980	3	1	4	20	2	6	Play video games
+981	3	0	3	7	0	6	Sing
+982	4	1	4	8	1	7	Sing
+983	8	0	3	20	1	6	horticulture
+984	2	1	4	20	1	6	Have some tea
+985	4	0	4	7	1	19	Fitness
+986	4	0	4	10	1	6	Listen to music
+987	5	1	4	4	1	6	Read books, watch movies
+988	3	1	4	10	0	6	hip-hop
+989	1	0	3	5	0	6	See a movie
+990	8	1	1	20	0	6	Smoking
+991	3	0	3	20	0	6	Listen to music
+992	6	1	5	4	2	6	Rest
+993	4	0	4	5	1	1	Sing
+994	4	1	4	0	1	6	Music
+995	0	0	1	20	0	6	Table tennis
+996	2	0	4	20	1	6	Read books and watch plays
+997	2	0	4	20	0	15	play ball
+998	2	0	4	20	0	8	DANCE
+999	4	0	5	14	1	8	Badminton, movies
+1000	2	0	4	0	0	15	Photography
+1001	2	1	4	20	0	6	performance
+1002	4	0	5	10	1	6	Painting
+1003	3	1	4	0	1	6	Games
+1004	3	1	3	7	4	6	Sing
+1005	3	0	4	1	1	6	See a movie
+1006	4	0	4	14	1	7	Listen to music, badminton
+1007	5	1	4	20	2	6	Table tennis
+1008	5	0	2	15	0	6	Dance
+1009	2	0	5	0	1	17	See a movie
+1010	2	0	4	20	1	6	Reading
+1011	4	1	4	2	1	6	Movies, music
+1012	1	1	1	20	0	6	Games
+1013	3	0	4	20	0	6	Reading
+1014	2	1	4	20	0	6	Badminton
+1015	3	0	5	20	2	6	Travel, drama
+1016	2	0	4	1	1	6	Reading
+1017	4	1	4	10	1	6	Photography, driving
+1018	5	1	4	14	1	6	Listen to music
+1019	4	0	4	10	0	3	Spoken language
+1020	3	1	4	20	1	6	None
+1021	2	0	3	11	1	23	Makeup
+1022	6	0	6	10	2	6	Reading
+1023	2	0	3	9	0	6	house
+1024	2	0	3	2	1	12	Play video games
+1025	2	1	3	0	1	8	Play video games
+1026	2	1	4	2	1	3	Listen to music
+1027	0	1	0	19	0	6	Play video games
+1028	7	1	6	0	4	1	I like vibrating knives
+1029	6	0	4	5	0	6	play chasing
+1030	3	1	4	4	1	6	Play video games
+1031	3	1	4	2	2	6	Fishing
+1032	3	1	5	20	1	6	None
+1033	7	0	3	5	1	6	book trip
+1034	2	0	4	1	4	6	Painting
+1035	3	1	3	5	1	6	play basketball
+1036	6	1	4	0	1	6	kick a ball
+1037	3	1	3	2	1	6	Football·
+1038	6	1	4	3	0	6	techno music
+1039	3	1	4	5	0	6	Play video games
+1040	3	1	4	20	1	6	Games
+1041	2	0	3	4	0	6	basketball
+1042	5	1	4	6	1	6	Delicious food
+1043	3	1	6	10	4	6	Fishing
+1044	2	1	3	5	0	6	Games
+1045	4	1	4	20	1	8	Billiards
+1046	3	0	4	20	0	8	Watch a Short Video
+1047	4	0	3	11	0	8	Read novels, eat food, listen to songs
+1048	3	1	6	5	3	1	swim
+1049	3	0	4	10	0	8	jigsaw
+1050	3	1	4	20	0	8	Reading
+1051	4	0	4	20	0	8	Singing, yoga
+1052	4	0	6	4	2	8	play
+1053	3	0	4	10	0	8	Singing and dancing
+1054	4	0	3	6	4	1	parenting
+1055	3	0	5	6	4	1	ski
+1056	4	0	4	2	0	8	Photography Watching TV National Style
+1057	4	1	4	3	0	8	ski
+1058	4	1	4	5	0	8	Exercise, reading
+1059	3	0	3	5	0	10	Music
+1060	3	0	3	5	0	8	Music
+1061	4	0	5	6	4	4	Badminton boxing
+1062	3	1	3	7	0	8	Dance
+1063	3	1	4	4	0	6	basketball
+1064	6	0	3	3	0	8	Dance
+1065	3	0	3	5	0	10	Tourism
+1066	5	0	4	20	2	8	Sing
+1067	3	0	3	10	0	8	jigsaw
+1068	3	0	2	19	0	8	Sports and movies
+1069	2	0	4	1	2	10	swim
+1070	3	1	4	20	1	10	play ball
+1071	2	1	3	0	1	10	Games, music
+1072	3	1	3	3	1	10	play billiards
+1073	3	0	4	5	0	8	Reading
+1074	3	1	3	0	1	10	Listen to music
+1075	3	0	5	10	1	8	Reading
+1076	3	0	4	0	1	10	play badminton
+1077	3	1	3	4	1	6	Music
+1078	5	1	4	3	1	10	paddling
+1079	3	1	4	2	2	8	Play video games
+1080	4	1	4	0	1	4	Games
+1081	2	0	3	7	0	16	Sing
+1082	2	1	4	20	0	6	Games
+1083	3	1	3	5	1	8	pop singing
+1084	3	0	4	20	0	8	Play badminton and listen to songs
+1085	3	1	4	5	0	8	Reading
+1086	2	0	4	20	0	8	Extensive
+1087	6	0	3	3	0	8	Explore the Food
+1088	4	0	4	20	1	8	Tourism
+1089	2	0	4	3	0	25	Reading, outdoor
+1090	2	0	4	20	0	12	Reading books, growing flowers
+1091	2	0	3	20	0	16	Painting
+1092	4	1	4	5	1	11	Jogging
+1093	3	1	4	4	1	22	Games
+1094	2	0	4	10	0	16	Painting
+1095	5	1	4	10	2	5	basketball
+1096	4	0	4	20	0	3	Sing
+1097	3	1	4	3	1	6	anime
+1098	2	0	4	3	1	16	Watch anime
+1099	3	1	4	0	1	28	game sport   Anime Shake Party
+1100	2	0	4	11	0	6	Movies, music
+1101	3	1	4	7	1	6	Basketball, singing
+1102	1	1	3	20	0	15	basketball
+1103	3	1	3	19	0	3	Food movement
+1104	1	0	3	20	0	6	Listen to music
+1105	2	1	3	20	0	16	Singing, playing basketball
+1106	1	1	3	20	0	6	Learning
+1107	2	0	3	11	0	23	Playing games, reading, singing
+1108	2	1	4	20	0	27	Basketball Football
+1109	2	1	3	20	0	19	Games
+1110	2	0	4	0	0	27	baking
+1111	3	0	4	3	0	21	Games, sports
+1112	2	1	2	5	0	25	Games, music, food
+1113	3	1	4	7	1	6	Read books and play games
+1114	2	0	3	20	0	24	Dramas, games, novels, travel
+1115	3	0	4	2	1	6	Design, painting, editing
+1116	2	1	4	10	0	25	basketball
+1117	2	0	4	20	0	6	host
+1118	3	1	4	10	1	6	basketball
+1119	1	0	3	20	0	6	handcraft
+1120	1	0	3	20	0	6	Basketball, painting, dancing
+1121	2	0	3	20	0	6	Singing, calligraphy, painting
+1122	2	1	3	2	0	6	anime
+1123	1	0	2	20	0	6	Sing
+1124	1	1	2	20	0	6	play basketball
+1125	3	0	4	10	1	10	Reading
+1126	2	1	3	20	1	10	mountain climbing
+1127	5	0	3	5	0	6	Short Video
+1128	6	0	4	0	1	6	Movies, books
+1129	4	0	3	20	0	6	house
+1130	6	1	3	4	1	6	basketball
+1131	3	0	4	9	0	6	Eat, drink and be merry
+1132	4	0	4	5	1	6	beauty make-up
+1133	3	0	3	0	0	6	Delicious food
+1134	4	0	4	5	1	6	Movies, jigsaw puzzles
+1135	2	1	3	20	0	10	mountain climbing
+1136	3	0	3	20	0	6	Listen to music
+1137	3	0	4	18	1	3	Listen to music
+1138	2	1	3	19	1	10	Music, games
+1139	5	0	4	5	1	6	Music
+1140	5	0	3	18	0	6	Watch TV shows, read books
+1141	5	0	4	5	1	6	Reading
+1142	3	0	4	20	0	6	See a movie
+1143	2	1	4	0	0	6	Japanese
+1144	4	0	3	20	1	6	Gourmet music
+1145	2	0	3	20	0	6	Pet reading manual anime walking
+1146	2	1	4	20	0	6	Game archery
+1147	2	1	3	3	0	3	Taekwondo, playing games
+1148	4	0	2	7	1	6	Travel, listen to music, exercise
+1149	4	0	4	3	1	2	calligraphy
+1150	3	1	3	2	1	10	basketball
+1151	3	1	3	7	1	10	play billiards
+1152	1	0	3	20	0	6	computer
+1153	1	0	3	20	0	6	None
+1154	1	0	3	20	0	6	Painting
+1155	1	1	3	20	0	6	Listen to music
+1156	1	1	3	20	0	6	Photography
+1157	1	1	3	20	0	6	Running
+1158	1	1	3	20	0	6	basketball
+1159	1	1	3	0	0	6	None
+1160	1	0	3	20	0	23	Listen to music
+1161	1	1	3	20	0	22	Reading Basketball
+1162	1	1	3	0	1	22	Table tennis
+1163	1	0	3	20	0	6	editing
+1164	1	1	3	20	0	6	movement
+1165	1	0	3	20	0	6	None
+1166	1	1	3	20	0	6	Games, basketball
+1167	1	1	3	20	0	14	basketball
+1168	1	1	3	20	0	6	Badminton
+1169	1	1	3	20	0	6	Badminton
+1170	1	1	3	20	0	6	None
+1171	1	1	3	20	0	23	basketball
+1172	1	1	3	20	0	6	Singing and dancing rap basketball
+1173	1	1	3	20	0	6	basketball
+1174	1	1	3	20	0	6	basketball
+1175	1	1	3	20	0	6	basketball
+1176	1	1	3	20	0	6	Play badminton and billiards
+1177	1	1	3	20	0	6	Table tennis
+1178	1	1	3	20	0	22	None
+1179	1	1	3	20	0	6	basketball
+1180	1	1	3	20	0	23	Basketball, table tennis
+1181	1	1	3	20	0	6	basketball
+1182	1	1	3	20	0	6	None
+1183	2	1	3	20	0	6	Basketball Football
+1184	1	1	3	20	0	6	Playing magic cube and playing model sports fitness
+1185	1	1	3	20	0	6	Basketball games
+1186	1	1	3	20	0	6	Badminton
+1187	1	1	3	20	0	6	mechanical drawing
+1188	1	1	3	20	0	6	movement
+1189	1	0	3	20	0	6	Sing
+1190	1	0	3	20	0	6	Badminton
+1191	1	0	3	20	0	23	Reading
+1192	1	1	3	20	0	6	basketball
+1193	1	1	3	20	0	6	Badminton
+1194	1	1	3	20	0	6	None
+1195	1	0	3	0	0	6	Reading
+1196	1	1	3	20	0	6	None
+1197	1	1	3	20	0	6	Listen to music
+1198	1	1	3	20	0	23	Table tennis
+1199	1	1	3	20	0	6	movement
+1200	1	0	3	20	0	6	Listen to songs and read books
+1201	1	1	3	20	0	6	lecture
+1202	1	1	3	20	0	6	play ball
+1203	1	1	3	20	0	6	Football
+1204	1	1	3	20	0	6	play badminton
+1205	1	1	3	20	0	6	Sports
+1206	1	1	3	20	0	6	read-write
+1207	1	0	3	20	0	6	Take a walk
+1208	1	1	3	20	0	6	Football
+1209	1	1	3	20	0	6	play badminton
+1210	1	1	3	20	0	6	play basketball
+1211	1	1	3	20	0	6	cooking
+1212	1	1	3	20	0	22	play badminton
+1213	1	1	3	20	0	6	basketball
+1214	1	1	3	20	0	6	Basketball Photography
+1215	1	1	3	19	0	4	play badminton
+1216	1	1	3	20	0	6	play badminton
+1217	1	1	3	20	0	22	Sing
+1218	1	1	3	20	0	6	Badminton
+1219	1	1	3	20	0	6	None
+1220	1	1	3	20	0	6	Quyi
+1221	1	1	3	20	0	6	movement
+1222	1	1	3	20	0	6	play basketball
+1223	2	1	3	20	0	6	basketball
+1224	1	1	3	20	0	6	basketball
+1225	1	1	3	20	0	6	play basketball
+1226	1	1	3	20	0	6	Sports
+1227	1	1	3	20	0	6	play basketball
+1228	1	0	3	20	0	6	Sing
+1229	1	1	3	20	0	6	play badminton
+1230	1	1	3	20	0	6	basketball
+1231	1	1	3	20	0	6	basketball
+1232	1	0	3	20	0	6	play badminton
+1233	1	0	3	20	0	6	None
+1234	1	1	3	20	0	6	Basketball Badminton
+1235	1	1	3	20	0	6	Reading
+1236	2	1	3	0	0	6	None
+1237	2	1	3	20	0	6	skating
+1238	2	1	3	0	0	6	None
+1239	2	1	3	20	0	6	Badminton
+1240	1	1	3	0	0	6	None
+1241	2	1	3	20	0	6	play badminton
+1242	2	1	3	0	0	6	None
+1243	2	1	3	0	0	6	None
+1244	1	1	3	20	0	6	Basketball, running, fitness
+1245	1	1	3	20	0	6	None
+1246	2	1	3	20	0	6	None
+1247	2	1	3	0	0	6	None
+1248	1	1	3	20	0	6	Play video games
+1249	2	1	3	20	0	6	Reading, running
+1250	1	1	3	20	0	6	Billiards
+1251	1	1	3	20	0	6	Music
+1252	2	1	3	20	0	6	Music
+1253	2	1	3	20	0	6	Badminton
+1254	1	1	3	0	0	6	Listen to music, watch movies
+1255	1	1	3	20	0	6	None
+1256	1	1	3	20	0	6	Play
+1257	2	1	3	20	0	6	Running
+1258	2	1	3	20	0	6	basketball
+1259	2	1	3	20	0	6	play ball
+1260	1	1	3	20	0	6	Sing
+1261	2	1	3	20	0	6	Badminton
+1262	2	1	3	20	0	6	play basketball
+1263	2	1	3	20	0	6	play basketball
+1264	1	1	3	19	0	6	Badminton
+1265	1	1	3	20	0	6	Basketball Badminton
+1266	1	1	3	20	0	6	Basketball Badminton
+1267	2	1	3	20	0	6	Music
+1268	1	1	3	19	0	6	Basketball, badminton
+1269	2	1	3	20	0	6	Music
+1270	2	1	3	20	0	6	Games
+1271	1	1	3	20	0	6	Reading
+1272	2	1	3	19	0	6	swim
+1273	1	1	3	20	0	6	Play
+1274	2	0	3	18	0	24	Watch the video
+1275	1	0	3	13	0	6	None
+1276	1	0	3	1	0	6	Reading
+1277	1	0	3	13	0	6	ski
+1278	1	0	3	13	0	6	None
+1279	1	0	3	13	0	6	None
+1280	1	0	3	13	0	6	calligraphy
+1281	2	1	3	20	0	6	Football Badminton
+1282	1	0	3	13	0	6	None
+1283	1	0	3	13	0	6	Sing
+1284	1	0	3	13	0	6	None
+1285	1	0	3	13	0	6	Sing
+1286	1	0	3	13	0	6	Sing
+1287	1	0	3	13	0	6	Sports, calligraphy
+1288	2	0	3	13	0	24	sing,
+1289	1	1	3	13	0	6	None
+1290	1	1	3	18	1	6	Sing
+1291	1	0	3	9	0	6	Sing
+1292	1	0	3	13	0	6	Sing
+1293	1	0	3	13	0	6	None
+1294	1	0	3	20	0	6	Guzheng, dance, chorus
+1295	1	1	3	20	0	6	play basketball
+1296	1	0	3	9	0	6	Reading
+1297	1	1	3	9	0	6	Painting
+1298	1	0	3	9	0	6	Reading
+1299	1	1	3	20	0	6	Sing
+1300	1	1	3	20	0	6	basketball
+1301	1	0	3	9	0	6	Badminton, calligraphy
+1302	1	1	3	9	0	6	basketball
+1303	1	0	3	9	0	6	None
+1304	1	1	3	9	0	6	Sing
+1305	1	1	3	9	0	8	Learning
+1306	1	1	3	9	0	8	basketball
+1307	1	0	3	20	0	6	Listen to music
+1308	1	0	3	9	0	6	Games
+1309	1	1	3	20	0	6	play basketball
+1310	2	0	3	20	0	6	Badminton
+1311	1	0	3	20	0	6	Listen to music
+1312	1	0	3	13	0	6	Reading
+1313	1	0	3	13	0	6	Badminton
+1314	1	1	3	13	0	24	None
+1315	1	0	3	13	0	6	Photography
+1316	1	1	3	20	0	23	make money
+1317	1	0	3	20	0	6	Play
+1318	1	0	3	20	0	6	Painting
+1319	1	0	3	20	0	6	Both
+1320	1	0	3	20	0	6	Sing
+1321	1	0	3	20	0	6	Sing
+1322	1	0	3	9	0	6	movement
+1323	1	1	3	20	0	7	Play
+1324	1	0	3	20	0	6	Reading
+1325	1	0	3	20	0	6	violin
+1326	1	0	3	20	0	6	Listen to music
+1327	1	0	3	13	0	6	take a landscape photograph
+1328	1	0	3	13	0	6	Badminton
+1329	1	0	3	20	0	6	Listen to music
+1330	1	0	3	20	0	6	Dancing, badminton, watching movies
+1331	1	0	3	20	0	6	Extensive
+1332	1	1	3	20	0	6	Badminton editing
+1333	1	0	3	20	0	6	Singing and dancing
+1334	1	0	3	20	0	23	calligraphy
+1335	1	0	3	20	0	6	Painting
+1336	1	0	3	20	0	6	Watch anime
+1337	1	0	3	20	0	6	play badminton
+1338	1	0	3	20	0	6	Piano, swimming, singing, dancing
+1339	1	0	3	20	0	6	Painting
+1340	1	1	3	20	0	6	basketball
+1341	1	0	3	20	0	6	Dancing, playing badminton
+1342	1	0	3	20	0	6	Read the play
+1343	2	0	3	20	0	3	Sing
+1344	1	1	3	20	0	6	basketball
+1345	1	1	3	20	0	6	Basketball Football Table Tennis
+1346	1	1	3	20	0	6	movement
+1347	1	0	3	20	0	6	basketball
+1348	1	0	3	20	0	6	Badminton
+1349	2	0	3	20	0	6	Sing
+1350	1	0	3	20	0	6	make friends
+1351	1	0	3	20	0	6	Dancing, running, listening to music
+1352	1	0	3	20	0	6	Sing
+1353	1	0	3	20	0	6	Play video games
+1354	1	1	3	20	0	6	Listen to music
+1355	1	1	3	20	0	5	movement
+1356	1	0	3	20	0	6	Music
+1357	1	0	3	5	0	6	Learning
+1358	1	0	3	20	0	6	Reading
+1359	1	0	3	20	0	6	Sing
+1360	1	1	3	20	0	16	Play games, listen to songs, watch variety shows
+1361	1	1	3	20	0	6	movement
+1362	1	0	3	20	0	6	Play computer
+1363	1	1	3	20	0	6	Singing and dancing
+1364	1	0	3	20	0	6	Learning
+1365	1	0	3	20	0	6	Badminton
+1366	1	0	3	20	0	6	Reading
+1367	1	0	3	20	0	6	Painting
+1368	1	1	3	20	0	6	Badminton
+1369	1	0	3	20	0	6	Sing
+1370	1	0	3	20	0	6	None
+1371	1	0	3	20	0	6	None
+1372	1	1	3	20	0	6	Music
+1373	1	1	3	20	0	6	Playing basketball, running
+1374	1	1	3	20	0	6	Dance
+1375	1	0	3	20	0	6	Watch the video
+1376	1	0	3	20	0	6	night run
+1377	1	0	3	20	0	6	Sing
+1378	3	0	3	20	0	6	None
+1379	1	0	3	20	0	6	Painting
+1380	2	1	3	20	0	6	play basketball
+1381	1	1	3	20	0	16	Sing
+1382	1	0	3	20	0	6	Listen to music
+1383	2	0	3	7	0	6	Sing
+1384	1	0	3	20	0	6	Reading, typing
+1385	1	0	3	20	0	6	Volleyball
+1386	1	0	3	20	0	6	Sing
+1387	1	1	3	20	0	16	Sports
+1388	2	0	3	20	0	6	painting
+1389	1	1	3	20	0	16	Watch anime
+1390	1	0	3	20	0	20	movement
+1391	1	1	3	20	0	6	Chasing plays and playing games
+1392	1	0	3	20	0	6	Reading
+1393	1	0	3	20	0	6	Running, basketball, badminton, dancing
+1394	1	0	3	20	0	6	Reading
+1395	1	0	3	20	0	16	Listen to music
+1396	1	0	3	20	0	6	play badminton
+1397	1	0	3	20	0	16	Listen to music
+1398	2	0	3	20	0	16	Listen to music
+1399	1	0	3	20	0	16	Draw, play games, listen to songs and read books
+1400	1	0	3	20	0	6	None
+1401	1	0	3	20	0	6	Photography
+1402	2	0	3	20	0	6	art design
+1403	1	0	3	20	0	6	Photographic Drama Tour
+1404	1	0	3	20	0	16	Singing and photography
+1405	1	0	3	20	0	6	None
+1406	1	0	3	20	0	6	Sing
+1407	1	0	3	20	0	6	Singing, dancing, reading
+1408	1	0	3	20	0	6	Reading and drawing
+1409	1	0	3	20	0	6	Take a picture
+1410	1	0	3	20	0	6	Sing
+1411	2	0	3	18	0	6	Sing
+1412	2	0	3	20	0	6	piano
+1413	1	1	3	20	0	6	play basketball
+1414	1	1	3	20	0	6	rap
+1415	1	0	3	20	0	6	Learning
+1416	1	0	3	20	0	6	Reading
+1417	2	1	3	20	0	6	Football
+1418	1	0	3	20	0	18	vocal music
+1419	1	1	3	20	0	6	play basketball
+1420	1	1	3	20	0	22	Listen to music
+1421	1	0	3	0	0	24	Watch TV
+1422	1	1	3	20	0	6	Billiards
+1423	1	0	3	20	0	6	Painting
+1424	1	1	3	20	0	6	Badminton
+1425	1	1	2	20	1	6	Games, novels
+1426	1	1	3	20	0	6	Basketball Football Guitar
+1427	1	1	3	20	0	6	Play video games
+1428	1	1	3	20	0	6	Football, basketball
+1429	1	1	3	20	0	6	Singing and dancing rap basketball
+1430	1	1	3	20	0	6	chess reading
+1431	1	1	3	14	0	5	basketball
+1432	1	1	3	20	0	6	film
+1433	1	1	3	20	0	6	Sports
+1434	1	1	3	20	0	16	Listen to music
+1435	1	0	3	20	0	6	Learning
+1436	1	0	3	20	0	6	Reading
+1437	1	1	3	14	0	16	sports reading
+1438	1	1	3	20	0	16	Listen to music
+1439	2	1	3	14	0	6	basketball
+1440	1	1	3	20	0	6	read a novel
+1441	1	1	3	20	0	12	Running
+1442	1	1	3	20	0	6	Badminton
+1443	1	1	3	20	0	6	basketball
+1444	1	0	3	20	0	6	Painting
+1445	1	0	3	20	0	6	Listen to songs, draw, run, eat delicious food
+1446	1	1	3	20	0	6	Running
+1447	1	1	3	20	0	6	play basketball
+1448	1	0	3	20	0	6	Listen to music
+1449	1	1	3	20	0	6	movement
+1450	2	1	2	20	0	6	calligraphy practice
+1451	1	0	3	20	0	6	Reading skateboard   movement
+1452	1	1	3	20	0	6	Music basketball
+1453	1	0	3	20	0	6	Reading
+1454	1	1	3	20	0	6	Billiards
+1455	1	0	3	20	0	6	Watch movies, take photos and record your life
+1456	1	1	3	20	0	6	Play games, play basketball
+1457	1	1	3	20	0	6	Badminton
+1458	1	0	3	20	0	6	Fine arts
+1459	1	1	3	20	0	6	Painting
+1460	1	1	3	20	0	6	Listen to music
+1461	1	1	3	20	0	6	Listen to music
+1462	1	1	3	20	0	6	Sing
+1463	1	0	3	20	0	6	anime
+1464	1	1	3	20	0	6	play basketball
+1465	1	0	3	20	0	6	play the piano
+1466	1	0	3	20	0	6	Painting, photography
+1467	1	0	3	20	0	6	art lecture
+1468	1	0	3	20	0	6	Reading
+1469	1	0	3	20	0	6	Badminton
+1470	1	0	3	20	0	6	Painting, singing
+1471	1	1	3	20	0	6	Billiards
+1472	1	1	3	2	0	30	basketball
+1473	1	1	3	20	0	6	basketball
+1474	1	0	3	20	0	6	None
+1475	1	1	3	20	0	6	skateboard, photography
+1476	1	1	3	20	0	6	Running
+1477	1	1	3	20	0	6	Learning
+1478	1	1	3	20	0	6	Reading
+1479	1	1	3	20	0	6	Music
+1480	1	1	3	20	0	6	Basketball, singing
+1481	1	0	3	20	0	6	Reading
+1482	2	0	3	20	0	6	Reading
+1483	1	1	3	20	0	6	Badminton
+1484	1	1	3	20	0	6	Table tennis
+1485	1	0	3	20	0	6	Manicure
+1486	1	1	3	20	0	6	basketball
+1487	1	0	3	20	0	6	read a novel
+1488	1	1	3	20	0	6	Badminton skateboard
+1489	2	1	3	0	0	4	Table tennis
+1490	1	0	3	20	0	6	Listen to music
+1491	1	1	3	20	0	15	None
+1492	1	0	3	0	0	6	Badminton
+1493	1	1	3	20	0	4	basketball
+1494	1	0	3	20	0	22	Listen to music
+1495	1	0	3	20	0	6	movement
+1496	1	1	3	20	0	6	Sing
+1497	2	1	3	20	0	6	Badminton
+1498	1	1	3	0	0	6	Music, novels, games
+1499	1	1	3	20	0	6	Entertainment
+1500	1	1	3	20	0	6	Basketball games
+1501	1	1	3	20	0	6	Entertainment
+1502	1	1	3	20	0	6	Basketball, music
+1503	1	1	3	20	0	6	Badminton
+1504	1	0	3	20	0	6	Sing
+1505	1	0	3	20	0	6	Playing mahjong
+1506	1	0	3	20	0	6	Singing and dancing
+1507	1	0	3	20	0	6	None
+1508	1	0	3	20	0	6	Sing
+1509	1	0	3	20	0	16	Sing
+1510	1	1	3	20	0	6	Entertainment
+1511	1	1	3	20	0	22	Basketball, table tennis
+1512	1	1	3	14	0	15	Table Tennis Books Football Basketball Badminton
+1513	1	1	3	20	0	6	Human studies
+1514	1	1	3	20	0	6	movement
+1515	1	0	3	20	0	6	Sing
+1516	1	1	3	20	0	6	basketball
+1517	1	0	3	20	0	6	calligraphy
+1518	1	1	3	20	0	6	movement
+1519	1	1	3	20	0	6	Reading
+1520	1	1	3	20	0	6	Football
+1521	1	1	3	0	0	6	basketball
+1522	1	1	3	20	0	6	basketball
+1523	1	1	3	20	0	6	skateboard
+1524	1	1	3	20	0	22	Badminton, singing
+1525	1	1	3	20	0	6	Fitness basketball music
+1526	1	0	3	20	0	23	Singing, broadcasting, listening to songs
+1527	1	1	3	20	0	6	Second yuan, animation
+1528	1	1	3	20	0	6	Reading
+1529	1	1	3	20	0	6	guitar
+1530	1	0	3	20	0	6	Badminton, volleyball
+1531	1	1	3	20	0	16	basketball
+1532	1	0	3	20	0	6	play chasing
+1533	1	0	3	20	0	6	Watch variety shows
+1534	2	1	3	20	0	16	Listen to music
+1535	1	1	3	20	0	16	basketball
+1536	1	1	3	20	0	6	None
+1537	1	1	3	20	0	16	None
+1538	1	1	3	20	0	6	basketball
+1539	1	1	3	20	0	16	None
+1540	1	1	2	20	0	4	Calligraphy basketball
+1541	1	1	3	20	0	6	play basketball
+1542	1	0	3	20	0	6	fencing
+1543	1	0	3	20	0	6	Eat
+1544	1	0	3	20	0	6	None
+1545	1	1	3	20	0	16	basketball
+1546	1	0	3	20	0	6	Reading, singing, painting
+1547	1	0	3	20	0	6	Reading
+1548	1	0	3	20	0	6	Reading
+1549	1	0	3	20	0	6	Table tennis
+1550	1	1	3	20	0	6	Badminton
+1551	1	1	3	20	0	6	basketball
+1552	1	1	3	20	0	16	be in a daze
+1553	1	0	3	20	0	16	Reading
+1554	1	1	3	20	0	6	Billiards, basketball, sprinting
+1555	1	0	3	20	0	6	Sing
+1556	1	0	3	20	0	6	Running, kicking shuttlecock, badminton
+1557	1	0	3	20	0	6	play badminton
+1558	1	1	3	20	0	16	basketball
+1559	1	0	3	20	0	6	Sing
+1560	1	0	3	20	0	6	None
+1561	1	0	3	20	0	6	Reading
+1562	1	1	3	20	0	6	Sports, games
+1563	1	0	3	20	0	6	Painting
+1564	1	0	3	20	0	6	Sing
+1565	1	0	3	20	0	6	Reading
+1566	1	1	3	20	0	16	None
+1567	1	0	3	20	0	6	Reading
+1568	1	0	3	20	0	4	Learning
+1569	1	0	3	20	0	6	Painting
+1570	1	1	3	20	0	4	Digital equipment
+1571	1	0	3	20	0	6	Painting
+1572	1	1	3	20	0	6	Guitar Basketball Photography
+1573	1	0	3	20	0	6	Listen to music
+1574	1	0	3	20	0	6	No, I didn't
+1575	1	1	3	20	0	6	Badminton
+1576	1	1	3	20	0	6	basketball
+1577	1	1	3	20	0	6	None
+1578	2	1	2	20	0	6	Badminton
+1579	1	0	3	20	0	6	Sing
+1580	1	0	3	20	0	6	Badminton
+1581	1	1	3	20	0	6	Billiards
+1582	1	0	3	20	0	6	None
+1583	1	1	3	20	0	6	Billiards
+1584	1	0	3	20	0	6	ski
+1585	2	1	3	20	0	6	basketball
+1586	1	1	3	20	0	6	saxophone playing
+1587	2	1	7	20	1	6	basketball
+1588	2	1	3	20	0	6	Esports games
+1589	1	1	3	20	0	16	play basketball
+1590	1	1	3	20	0	6	Basketball, etc
+1591	1	0	3	9	1	6	Dance
+1592	1	0	3	20	0	6	Singing and dancing
+1593	1	1	3	19	0	5	play basketball
+1594	1	1	3	0	1	6	basketball
+1595	2	1	3	19	4	6	Football
+1596	2	1	2	0	0	23	Reading
+1597	2	1	3	19	0	6	play badminton
+1598	1	1	3	4	0	6	Music
+1599	1	1	3	20	0	6	Running
+1600	1	1	3	20	0	6	Dance
+1601	1	1	3	0	0	6	Badminton
+1602	1	1	3	20	4	6	play basketball
+1603	1	1	3	20	0	6	basketball
+1604	2	1	3	20	0	6	Football
+1605	1	1	3	20	0	6	basketball
+1606	2	0	3	20	0	6	Play video games
+1607	2	0	3	20	0	6	Singing, playing with the Rubik's Cube
+1608	2	0	3	20	0	6	Reading
+1609	3	0	6	2	1	8	exercise
+1610	2	0	4	1	1	4	design
+1611	1	0	2	20	0	6	Painting
+1612	1	0	2	20	0	7	Dance
+1613	3	1	3	2	1	6	Billiards
+1614	2	0	4	8	0	3	movement
+1615	2	1	3	2	1	7	Sing
+1616	1	1	2	20	0	15	Play video games
+1617	2	1	3	0	1	5	Sing
+1618	2	0	3	0	1	5	Play video games
+1619	3	0	5	16	2	19	Dance
+1620	1	1	2	20	0	7	Sing
+1621	2	1	3	4	0	16	None
+1622	1	0	2	20	0	7	Dance
+1623	2	1	4	5	0	5	Law
+1624	1	0	2	20	0	6	Painting
+1625	2	1	4	2	1	6	Billiards
+1626	2	1	3	20	0	6	Sing
+1627	3	0	4	15	0	6	Raising small animals
+1628	1	0	1	20	0	6	Guzheng
+1629	2	1	4	3	1	3	mountain climbing
+1630	1	1	2	20	0	1	play basketball
+1631	2	1	3	2	0	21	Painting
+1632	1	0	1	18	0	22	play the piano
+1633	1	1	3	18	0	7	Play video games
+1634	1	1	5	2	2	4	play chess
+1635	3	0	4	4	1	1	Article wu
+1636	2	0	4	1	1	8	play the suona
+1637	2	1	3	3	0	8	Sing
+1638	1	0	3	20	0	6	anime
+1639	2	1	4	4	1	2	hip-hop
+1640	1	0	2	20	0	7	Sing
+1641	2	0	3	3	1	16	play badminton
+1642	2	1	4	0	0	7	Fitness
+1643	2	1	5	1	2	4	Play video games
+1644	2	0	3	0	0	7	Sing
+1645	2	1	4	5	0	4	movement
+1646	2	1	3	3	2	6	Fitness
+1647	3	1	4	11	2	1	movement
+1648	1	0	2	20	0	6	Listen to music
+1649	3	1	3	10	0	23	Fitness
+1650	1	0	3	20	1	3	Latin dance
+1651	2	0	3	0	0	6	Painting
+1652	2	0	4	3	1	1	Photography
+1653	2	0	4	5	0	3	anime
+1654	2	0	4	3	1	2	Video Clips
+1655	2	0	6	1	1	3	design
+1656	4	1	3	1	1	8	play chess
+1657	3	0	4	4	2	4	Fitness
+1658	2	0	4	17	1	19	play
+1659	3	1	5	1	2	5	Reading
+1660	3	1	4	2	0	7	basketball
+1661	2	1	7	20	4	6	Sing
+1662	1	0	2	0	0	1	basketball
+1663	2	0	3	2	0	3	Dance
+1664	2	0	4	1	1	5	Dance
+1665	2	1	4	0	2	5	Internet access
+1666	1	1	4	4	0	3	Painting
+1667	2	1	4	5	1	2	Running
+1668	2	1	3	2	0	22	anime
+1669	2	0	3	4	2	3	Painting
+1670	1	0	2	20	0	6	Sing
+1671	2	0	4	4	0	4	dubbing
+1672	2	0	4	2	0	6	Dance
+1673	3	0	4	0	2	5	walk a dog
+1674	1	1	4	20	0	6	Watch funny videos
+1675	2	1	4	3	0	6	Painting
+1676	2	0	4	2	1	1	Dance
+1677	2	0	3	2	0	6	Sing
+1678	2	0	3	0	1	3	Sing
+1679	2	1	4	1	0	3	play football
+1680	3	0	5	0	1	4	Sing
+1681	1	1	7	5	0	6	play basketball
+1682	3	1	6	5	1	7	Painting
+1683	1	1	4	0	0	5	Tourism
+1684	2	0	4	1	0	8	anime
+1685	1	1	3	20	0	6	movement
+1686	1	1	3	1	1	6	Play video games
+1687	2	1	4	3	0	7	Ride a bike
+1688	2	0	3	1	0	6	beauty make-up
+1689	3	1	5	0	0	7	ride a motorbike
+1690	2	0	4	2	0	2	Sing
+1691	2	1	3	2	0	8	Video games
+1692	2	0	4	0	0	6	play football
+1693	2	0	2	20	0	6	Learning
+1694	3	1	4	1	1	6	skating
+1695	3	1	4	1	2	5	Sing
+1696	2	1	4	20	1	6	Sing
+1697	1	1	2	20	0	3	Sing
+1698	1	0	4	3	1	6	See a movie
+1699	1	1	2	20	0	6	Games
+1700	1	1	3	1	1	7	play the piano
+1701	2	1	3	20	2	6	Play video games
+1702	1	0	2	20	0	6	Sing
+1703	2	1	3	0	0	8	play basketball
+1704	3	0	5	4	0	6	Painting
+1705	2	1	4	0	0	2	Running
+1706	2	0	4	0	1	2	Painting
+1707	2	0	4	2	1	3	swim
+1708	2	1	4	1	1	4	electronic production
+1709	2	1	4	0	0	2	Video Clips
+1710	2	1	4	0	0	1	Cycling
+1711	1	1	3	0	0	8	play basketball
+1712	1	0	2	20	0	6	play badminton
+1713	2	1	4	5	2	9	Tourism
+1714	2	1	6	2	0	3	Mountain bikes
+1715	3	1	3	2	2	7	mountain climbing
+1716	1	0	3	20	0	6	Photography
+1717	1	0	3	20	0	6	play badminton
+1718	1	1	3	20	0	6	basketball
+1719	1	0	3	2	0	6	Play
+1720	2	1	3	2	0	6	Painting
+1721	1	0	3	20	0	6	Dancing, skiing
+1722	2	1	3	1	2	3	Reading
+1723	3	0	4	2	2	3	Sing
+1724	1	1	2	20	0	6	rap
+1725	2	1	4	0	1	7	Sing
+1726	1	0	2	20	0	6	Reading
+1727	1	1	2	20	0	4	Volleyball
+1728	1	0	1	20	0	6	Sing
+1729	2	1	3	20	2	6	rap
+1730	1	0	2	20	0	2	Sing
+1731	1	0	2	20	1	6	Sing
+1732	0	1	3	20	0	6	anime
+1733	1	1	2	20	0	6	hip-hop
+1734	3	1	2	5	1	8	Sing
+1735	1	0	2	1	0	8	Sing
+1736	1	1	2	20	0	6	play the guitar
+1737	1	1	2	20	0	6	anime
+1738	1	1	7	5	0	6	Badminton
+1739	1	1	4	20	0	6	Play video games
+1740	2	0	2	20	2	6	Reading
+1741	1	1	2	20	0	6	play basketball
+1742	1	0	2	20	0	6	Dance
+1743	1	1	2	20	1	6	basketball
+1744	1	1	2	20	0	6	Sing
+1745	2	1	3	1	1	6	Sing
+1746	1	0	2	20	0	6	Reading
+1747	2	1	5	0	2	7	Photography
+1748	1	1	2	20	0	6	play basketball
+1749	1	0	2	20	0	6	play the piano
+1750	1	1	3	20	0	6	basketball
+1751	1	1	2	20	0	4	play the guitar
+1752	1	0	2	20	0	6	Guzheng
+1753	1	0	2	20	0	6	Reading
+1754	1	0	3	0	1	1	Sing
+1755	2	1	3	20	2	6	Reading
+1756	2	0	4	4	1	4	Running
+1757	1	0	2	20	0	6	Painting
+1758	1	1	3	18	1	2	hip hop
+1759	1	1	1	20	0	6	play basketball
+1760	2	1	7	10	4	6	Sing
+1761	1	0	2	20	1	3	Sing
+1762	1	0	2	20	1	6	Sing
+1763	1	1	2	20	1	6	basketball
+1764	1	1	4	1	1	5	Reading
+1765	1	0	2	20	0	6	Sports
+1766	1	1	3	20	0	16	Promenade View
+1767	1	1	2	20	0	6	Sing
+1768	1	0	3	9	0	6	movement
+1769	2	0	3	20	0	15	Listen to music
+1770	1	1	2	20	0	6	play basketball
+1771	1	0	3	20	0	6	None
+1772	1	0	3	20	0	6	Listen to music
+1773	1	0	3	20	0	6	movement
+1774	1	0	3	3	0	6	calligraphy and painting
+1775	1	0	3	8	0	6	Sing
+1776	2	0	3	20	1	6	I like to think
+1777	2	1	3	20	0	6	Basketball, boxing
+1778	2	0	3	5	0	6	Sing
+1779	1	1	3	20	0	6	basketball
+1780	1	1	4	20	0	6	See a movie
+1781	2	1	3	20	0	6	See a movie
+1782	1	1	3	17	1	16	Football
+1783	1	0	3	17	0	6	Listen to music
+1784	1	1	3	17	0	16	Games
+1785	1	1	3	17	0	6	Badminton
+1786	1	0	3	20	0	16	Listen to music
+1787	1	1	3	20	0	16	Games
+1788	1	1	3	20	0	16	play basketball
+1789	1	1	3	20	1	6	swim
+1790	1	1	3	19	0	20	Basketball friends
+1791	1	1	2	20	0	6	play basketball
+1792	1	1	2	20	0	6	quadratic element
+1793	1	1	3	0	0	6	Listen to music
+1794	1	0	3	20	0	6	Reading, sports, travel
+1795	1	1	3	20	0	6	A lot
+1796	1	1	3	20	0	6	None
+1797	1	0	3	20	0	6	Tourism
+1798	1	1	3	20	0	16	Listen to music
+1799	1	1	3	20	0	6	Reading
+1800	1	1	3	20	4	6	play basketball
+1801	1	0	3	20	0	6	Read books, listen to songs
+1802	1	1	3	5	0	6	Play video games
+1803	1	0	3	3	0	31	Hospitality Management, Photography
+1804	1	1	3	20	0	6	Volleyball, music
+1805	0	1	2	20	0	23	Badminton
+1806	1	0	3	20	0	6	Dance
+1807	1	1	3	4	2	23	Reading
+1808	1	0	3	20	0	25	Sing
+1809	1	0	3	20	0	23	Manual
+1810	1	1	3	20	0	6	Mechanical
+1811	2	1	3	20	0	23	basketball
+1812	1	1	3	20	0	16	basketball
+1813	1	1	3	20	0	6	play basketball
+1814	1	1	3	20	0	6	Basketball games
+1815	1	1	3	20	0	5	Fitness
+1816	1	1	3	20	0	6	Running
+1817	1	1	3	0	1	23	Games
+1818	1	1	3	10	0	6	furry
+1819	1	1	3	20	0	6	Badminton
+1820	1	1	3	20	0	23	Read and write novels, play table tennis
+1821	1	0	3	20	0	6	Listen to music
+1822	1	0	3	20	0	6	Watch TV series
+1823	1	0	3	20	0	6	Photography
+1824	1	1	3	20	0	6	novel
+1825	1	1	7	20	0	23	Reading
+1826	1	1	3	20	1	6	Playing basketball, reading books, learning software
+1827	1	1	3	20	0	6	movement
+1828	1	1	3	20	0	6	Video games
+1829	1	1	3	20	0	6	play basketball
+1830	1	1	3	20	0	16	basketball
+1831	1	1	3	20	0	6	Play computer
+1832	1	1	3	0	2	23	basketball
+1833	1	1	3	20	0	6	I like walking
+1834	1	1	3	20	0	6	basketball
+1835	1	1	3	19	4	6	Sleep
+1836	2	1	3	20	0	6	basketball
+1837	2	1	3	20	0	6	Swimming, games
+1838	1	1	3	20	0	6	play volleyball
+1839	1	0	3	20	0	23	Listen to music
+1840	1	1	3	20	0	3	Games
+1841	1	1	3	20	0	16	Football
+1842	1	1	3	20	0	6	Games
+1843	1	1	3	0	0	23	Photography
+1844	1	1	3	20	0	6	Music
+1845	1	0	3	20	0	23	Badminton
+1846	1	1	3	20	0	23	Reading
+1847	1	1	3	20	0	6	basketball
+1848	1	1	3	20	1	1	Listen to music basketball
+1849	1	0	3	20	0	23	Photography
+1850	1	0	3	20	0	3	Reading
+1851	1	1	3	20	0	23	movement
+1852	1	1	3	8	0	4	See a movie
+1853	1	1	3	20	0	6	play basketball
+1854	1	1	3	2	0	6	Billiards
+1855	1	1	3	20	0	5	movement
+1856	1	1	3	20	0	12	movement
+1857	1	1	3	20	0	6	Music
+1858	1	1	3	20	0	6	movement
+1859	0	1	3	20	0	6	movement
+1860	1	0	3	20	0	15	None
+1861	1	1	3	19	0	6	None
+1862	1	1	3	20	0	15	Calligraphy, table tennis
+1863	2	1	3	19	0	15	Football
+1864	1	1	3	20	0	6	Football
+1865	1	1	3	20	0	4	Photography, painting, music
+1866	1	1	3	0	0	16	robot
+1867	1	1	3	0	0	6	Reading
+1868	1	1	3	2	0	6	Sports, travel
+1869	1	1	3	20	0	6	ball
+1870	1	1	3	0	0	6	Singing, sports
+1871	1	1	3	19	0	23	None
+1872	1	1	3	0	0	6	Football
+1873	1	1	3	20	0	6	Read, recite, sing
+1874	1	1	3	20	0	6	Sports
+1875	1	1	3	20	0	16	play badminton
+1876	1	1	3	0	0	6	Football Badminton
+1877	1	1	3	20	0	6	Listen to music
+1878	1	1	3	0	0	6	play ball
+1879	1	1	3	0	0	6	basketball
+1880	1	1	3	19	0	6	sing and dance rap
+1881	1	1	3	20	0	6	Photography
+1882	2	0	3	20	0	23	Dance
+1883	1	0	3	20	0	6	Sing
+1884	1	0	3	20	4	6	swim
+1885	2	1	3	0	1	6	Running
+1886	1	1	3	20	0	6	Play video games
+1887	1	0	3	20	0	6	Reading
+1888	1	1	3	20	0	6	basketball
+1889	1	1	3	20	0	23	Table tennis
+1890	1	0	3	20	0	6	Listen to music
+1891	1	1	3	20	0	6	Table tennis
+1892	2	1	3	20	0	6	Eat
+1893	1	1	3	20	0	6	Badminton
+1894	1	0	7	20	0	6	Play games
+1895	1	1	3	20	0	6	Drawing, Design, Calculation
+1896	1	1	3	20	0	6	Sing
+1897	1	1	3	20	0	6	basketball
+1898	1	1	3	20	0	6	Social
+1899	2	0	3	20	0	6	Sing
+1900	2	0	3	20	0	6	Play video games
+1901	2	1	3	20	0	6	basketball
+1902	2	1	3	20	0	6	Listen to music, watch movies
+1903	2	1	3	20	0	6	Photography Game Innovation
+1904	2	0	3	20	0	6	Painting
+1905	1	1	3	19	0	6	Badminton
+1906	1	0	3	13	1	8	Listen to music
+1907	1	1	3	20	0	6	Basketball games
+1908	1	1	3	20	0	6	
+1909	1	0	3	19	0	6	movement
+1910	5	1	4	1	2	1	play ball
+1911	2	0	4	3	0	2	play chasing
+1912	2	0	4	20	0	6	Sing
+1913	1	0	3	13	0	6	None
+1914	1	0	3	20	0	5	Photography
+1915	2	0	4	7	1	7	beauty make-up
+1916	2	0	3	20	0	6	Listen to music, walk
+1917	2	0	3	20	0	6	Listen to music, watch movies, build Legos, run
+1918	4	0	4	7	2	6	play chasing
+1919	2	0	3	20	0	7	movement
+1920	2	0	3	17	0	15	Photography, dance, calligraphy
+1921	1	0	3	20	0	6	Reading
+1922	1	0	3	20	0	6	Painting
+1923	1	0	3	20	0	6	Reading
+1924	2	1	3	19	0	6	play basketball
+1925	1	1	3	0	1	6	movement
+1926	6	0	5	10	1	6	Painting
+1927	1	1	3	20	0	6	Play basketball, play games, listen to songs
+1928	1	1	3	20	0	6	play basketball, do sports
+1929	5	0	5	10	1	6	tourist swimming
+1930	2	1	3	20	0	6	Skiing, skateboarding
+1931	1	1	3	0	1	6	Fitness
+1932	1	0	3	10	0	6	Photography
+1933	1	0	3	10	0	6	Photography
+1934	1	0	3	10	0	6	Photography
+1935	1	0	7	20	0	6	Riding
+1936	1	0	3	0	0	6	swim
+1937	1	0	7	20	0	6	music reading
+1938	1	0	7	20	0	6	Painting
+1939	1	0	7	20	0	6	Eat, drink and be merry
+1940	1	0	7	20	0	6	Painting
+1941	1	0	7	20	0	6	Music
+1942	1	0	7	20	0	6	Wei Hongtong
+1943	1	1	7	20	0	6	Games
+1944	3	1	4	10	1	6	Play games, sing songs
+1945	2	0	3	20	0	6	movement
+1946	1	0	3	17	0	6	lecture
+1947	1	0	3	20	0	6	Take a walk
+1948	4	0	5	10	1	6	Music, movies, TV shows, novels
+1949	2	1	3	17	0	6	play basketball
+1950	5	0	5	10	2	6	Tourism
+1951	4	1	4	0	1	4	Football
+1952	2	0	4	7	1	6	beauty make-up
+1953	3	0	3	8	1	3	play chasing
+1954	3	0	4	10	2	1	Travel
+1955	2	0	4	0	0	6	Painting
+1956	3	1	4	10	1	6	hip-hop
+1957	1	1	4	20	0	23	Reading
+1958	2	0	4	20	0	6	Sing
+1959	1	1	4	0	0	6	Singing and dancing rap basketball
+1960	0	0	2	20	0	6	None
+1961	2	1	4	0	0	6	Games, video
+1962	2	1	4	20	0	24	Computer games
+1963	2	0	4	13	0	6	Listen to music
+1964	2	0	4	20	0	6	None
+1965	2	0	4	20	0	6	None
+1966	1	0	7	20	0	6	Play video games
+1967	1	0	2	20	0	6	Watch Short Video kpop vlog movie tv series
+1968	1	0	7	20	0	6	Reading books
+1969	1	0	2	20	0	6	6
+1970	1	0	7	20	0	6	Look, handsome
+1971	1	0	7	20	0	6	swiping video
+1972	1	0	2	20	0	6	Look, handsome
+1973	1	0	7	20	0	6	Listen to music
+1974	1	1	3	0	0	6	play chess
+1975	1	1	7	20	0	6	Play Naruto hand tour
+1976	1	1	2	20	0	6	Games
+1977	1	1	7	20	0	6	fool
+1978	1	0	4	20	0	6	None
+1979	1	0	7	20	0	6	Painting
+1980	1	1	3	20	0	6	Football
+1981	1	1	7	20	0	6	Games
+1982	1	1	7	20	0	6	stroll
+1983	1	0	4	20	0	6	Play
+1984	1	1	4	20	0	6	process object
+1985	1	0	4	20	0	6	None
+1986	2	1	4	20	0	24	play basketball
+1987	2	0	4	20	0	6	Listen to music
+1988	2	0	4	0	1	6	Dance
+1989	1	0	4	20	0	6	Singing and dancing
+1990	1	1	4	20	4	6	singing and dancing
+1991	1	1	4	20	0	6	Music
+1992	1	0	4	20	0	6	None
+1993	1	0	4	20	0	6	Guitar Chasing Stars
+1994	1	0	4	20	0	6	Listen to music
+1995	1	0	4	20	0	6	Music
+1996	1	0	4	20	0	6	art design
+1997	1	1	4	20	0	6	Play video games
+1998	1	0	4	20	0	6	Listen to music
+1999	2	1	4	20	0	6	Fine arts
+2000	1	0	4	20	0	6	None
+2001	1	0	4	20	0	6	Flowering and fish farming
+2002	1	1	4	20	0	11	None
+2003	2	1	4	20	0	6	CTRL
+2004	2	1	4	20	0	6	piano
+2005	1	1	4	20	0	16	Table tennis
+2006	2	1	4	20	0	16	movement
+2007	2	0	4	20	0	6	Dance, sing
+2008	2	1	4	0	0	17	play ball
+2009	2	1	4	20	0	28	Badminton, billiards, music
+2010	2	1	4	20	0	20	Listen to music
+2011	1	1	4	20	0	6	Badminton, singing
+2012	2	0	4	20	0	13	Reading
+2013	1	1	4	0	1	6	press the road
+2014	1	1	4	20	0	6	Programmed Motion Algorithm History
+2015	2	0	4	20	0	6	See a movie
+2016	2	0	4	20	0	6	read a novel
+2017	2	1	4	20	1	6	Singing and dancing rap basketball
+2018	2	0	2	20	0	28	Listen to music
+2019	2	1	4	0	0	6	Play chess, listen to music
+2020	2	1	4	0	0	6	Singing and dancing rap basketball
+2021	2	0	4	5	0	6	None
+2022	2	0	4	20	0	6	play badminton
+2023	2	0	4	20	0	6	Badminton
+2024	2	0	4	20	0	31	movement
+2025	1	1	7	20	0	13	Basketball singing and dancing rap
+2026	2	1	4	20	0	6	Sleep
+2027	1	0	4	20	0	6	play badminton
+2028	1	1	4	0	0	6	Basketball, reading
+2029	1	1	4	0	0	6	Photography
+2030	1	0	4	0	0	6	play the guitar
+2031	2	0	4	2	0	6	Singing and dancing rap basketball
+2032	1	0	4	20	2	6	roller skating
+2033	2	1	4	20	0	6	Singing and dancing rap basketball
+2034	2	1	4	20	0	6	basketball
+2035	1	0	4	0	0	6	Listen to music
+2036	1	1	4	0	4	25	disco dancing
+2037	2	1	4	0	0	6	play basketball
+2038	1	1	4	20	0	24	Play games
+2039	1	1	4	0	1	24	Play video games
+2040	3	1	4	20	4	20	play chess
+2041	1	0	4	20	0	6	None
+2042	1	0	4	20	0	6	None
+2043	1	1	4	0	0	6	Learning
+2044	1	1	4	0	0	6	play basketball
+2045	1	1	4	0	0	6	E-sports, music
+2046	1	1	4	20	0	6	Play games
+2047	3	1	2	20	0	6	Fitness
+2048	1	0	4	13	0	24	Star-chasing
+2049	1	1	4	0	0	6	Reading
+2050	1	0	4	0	0	6	Cooking, singing, watching TV
+2051	1	0	4	0	0	6	Sing
+2052	1	0	2	0	0	24	Writing
+2053	1	1	4	0	0	6	play basketball
+2054	1	0	4	0	1	6	Singing, painting
+2055	1	0	4	0	0	6	Copy, read novels, play games
+2056	1	1	4	20	0	25	Music, sports
+2057	1	1	4	20	0	6	basketball
+2058	1	0	4	20	0	6	Sing
+2059	1	1	4	20	0	6	Photography
+2060	1	0	4	20	0	6	Playing badminton, running
+2061	1	0	4	20	0	6	Reading
+2062	1	0	4	20	0	6	Read comics, read novels, play games, play badminton, play basketball
+2063	1	1	4	20	0	6	Badminton
+2064	1	0	4	20	0	5	Anime, games
+2065	1	0	4	0	0	24	Dance, sing
+2066	1	0	4	20	0	6	Painting
+2067	1	1	4	20	0	6	Playing basketball, singing, guitar
+2068	1	0	4	20	0	6	Sing
+2069	1	0	4	20	0	20	Photography and dancing
+2070	1	1	4	20	0	5	Play games
+2071	1	1	4	20	0	7	play ball
+2072	2	1	4	20	0	16	Singing, dancing, basketball, music
+2073	1	0	4	20	0	6	Reading
+2074	1	1	4	20	0	6	Singing and dancing RAP basketball
+2075	2	1	4	20	0	25	play basketball
+2076	1	0	4	20	1	6	Singing and dancing
+2077	2	1	4	20	0	6	1
+2078	1	0	4	20	0	6	Take a walk
+2079	1	0	4	0	0	6	Play the piano and sing
+2080	1	0	4	20	0	6	Sing
+2081	1	0	4	0	1	6	Badminton
+2082	1	1	4	20	1	6	Sports, games
+2083	1	1	4	20	0	6	Badminton
+2084	1	1	4	20	0	6	basketball
+2085	8	1	6	15	4	1	Male
+2086	1	0	4	0	0	6	Singing, studying
+2087	1	1	4	0	1	6	Listen to music
+2088	1	1	4	20	0	6	Delicious food
+2089	1	1	4	20	0	6	basketball
+2090	1	0	4	20	0	6	Study and travel
+2091	1	0	4	0	2	6	Learning
+2092	1	1	4	20	0	23	None
+2093	1	1	4	0	0	31	Badminton
+2094	1	1	4	20	0	6	basketball
+2095	1	1	4	19	0	6	read a novel
+2096	1	0	4	0	1	6	Listen to music and walk
+2097	1	0	4	20	0	6	play the piano
+2098	1	0	4	20	0	6	Singing, dancing, erhu
+2099	2	1	4	20	0	6	None
+2100	1	1	4	0	0	6	Play video games
+2101	1	0	4	20	0	6	Sing
+2102	1	0	4	20	0	6	None
+2103	1	0	4	20	0	6	None
+2104	1	1	4	20	0	6	play basketball
+2105	1	0	4	20	0	24	DANCE
+2106	1	1	4	20	0	16	Listen to music
+2107	1	0	4	0	0	24	Painting, E-sports
+2108	1	0	4	20	0	31	Painting
+2109	1	0	4	20	0	6	Singing and dancing
+2110	1	0	4	0	0	4	Listen to music
+2111	1	1	4	20	0	6	None
+2112	1	0	4	20	0	6	Reading, listening to music, jogging
+2113	1	0	4	0	1	6	Sing
+2114	1	1	4	0	0	6	Playing badminton, collecting dolls
+2115	1	1	4	0	1	6	play the piano
+2116	1	1	4	0	0	6	Listen to music
+2117	1	1	4	0	1	25	movement
+2118	1	0	4	0	0	6	novel
+2119	1	0	4	0	1	28	Reading
+2120	1	1	4	0	4	6	cf
+2121	2	1	4	0	0	6	Listen to music
+2122	1	1	4	0	0	6	Painting basketball
+2123	1	1	4	0	0	13	Listen to music
+2124	2	0	4	0	4	6	play badminton
+2125	2	1	4	11	4	6	Listen to music and watch movies
+2126	2	1	4	0	0	6	
+2127	2	1	4	20	0	6	music fitness tourism
+2128	2	0	4	20	0	6	Star-chasing
+2129	1	1	4	20	0	6	Games, music, badminton
+2130	2	0	4	20	0	6	Music
+2131	1	0	4	20	0	6	Painting
+2132	2	0	4	20	0	6	calligraphy and painting
+2133	2	1	4	20	0	6	Play games
+2134	2	1	4	20	0	20	E-sports
+2135	1	1	4	20	1	16	Listen to music
+2136	1	1	4	20	0	6	Reading
+2137	1	1	4	20	0	6	play ball
+2138	2	1	4	0	0	6	Novels, travel
+2139	1	1	4	20	0	6	None
+2140	1	1	4	20	0	6	swim
+2141	1	1	4	20	0	6	E-sports
+2142	2	1	4	20	0	12	Tennis
+2143	1	1	4	2	0	6	play chess
+2144	2	1	4	0	0	19	Sleep
+2145	2	1	4	0	1	23	Listening to music, playing games, watching plays, electronic technology
+2146	1	0	4	20	0	6	Reading
+2147	2	0	4	20	0	23	Photography, reading, travel
+2148	2	0	4	20	0	6	movement
+2149	2	1	4	20	0	13	play basketball
+2150	2	1	4	5	4	6	Fitness
+2151	2	1	4	20	0	23	Sports, reading, games
+2152	1	0	4	20	0	6	Reading, going to the movies
+2153	2	1	4	20	0	6	None
+2154	2	0	4	20	0	6	Listen to music and draw
+2155	2	1	4	20	0	4	He likes sports
+2156	2	0	4	20	0	6	jigsaw
+2157	2	0	4	20	0	6	film
+2158	2	0	4	20	0	6	Eat
+2159	2	0	4	20	0	6	Dance
+2160	2	1	4	20	0	6	Sing, dance, rap, basketball
+2161	1	0	4	20	1	6	Sleep
+2162	2	1	4	20	0	6	Games, table tennis
+2163	2	0	4	13	0	6	Watch variety shows
+2164	2	1	4	13	0	6	play badminton
+2165	2	0	4	20	0	6	Running
+2166	2	1	4	10	0	6	None
+2167	2	1	4	20	0	24	Running
+2168	2	1	4	20	0	6	hip hop
+2169	2	0	4	20	0	6	Listen to the song
+2170	2	1	4	20	0	14	None
+2171	2	1	4	20	0	6	None
+2172	1	0	4	20	0	6	None
+2173	1	0	4	0	0	6	Learning
+2174	2	0	4	20	0	2	announcer
+2175	2	1	4	20	0	6	basketball
+2176	2	1	4	0	4	13	Sing, dance, rap, basketball
+2177	2	1	4	20	0	6	Reading
+2178	2	1	4	20	0	6	Watch anime
+2179	2	1	4	0	0	6	Painting
+2180	1	0	4	0	0	6	Games
+2181	2	1	4	0	0	6	play basketball
+2182	2	1	4	20	0	6	play basketball
+2183	1	0	4	20	4	6	None
+2184	2	0	4	20	0	6	None
+2185	2	0	4	20	0	6	Listen to music
+2186	2	1	4	20	0	24	Listen to music
+2187	2	1	4	20	0	6	Running
+2188	1	0	4	20	0	6	Star-chasing
+2189	2	1	4	20	0	6	Extensive
+2190	1	0	4	20	0	6	None
+2191	2	1	4	0	2	6	Running
+2192	2	0	4	20	0	12	outdoor
+2193	3	1	4	3	0	3	camera
+2194	4	0	4	3	1	3	go shopping
+2195	4	0	3	20	0	3	Listen to music, talk to friends, catch up on plays,
+2196	1	1	2	18	0	27	exercise and fitness
+2197	2	1	4	20	0	20	Running
+2198	2	1	4	20	0	24	Play games
+2199	1	1	4	20	0	6	play basketball
+2200	1	0	4	20	0	6	read a novel
+2201	1	0	4	0	0	6	play chasing
+2202	2	0	4	0	0	6	Reading
+2203	2	1	4	0	2	6	play ball
+2204	2	1	4	0	2	6	basketball
+2205	1	1	4	20	0	7	movement
+2206	4	0	3	3	1	3	Delicious food
+2207	1	1	4	20	0	6	Electronics
+2208	4	0	4	2	2	3	baking
+2209	2	0	4	20	0	6	Reading
+2210	1	1	4	20	0	6	Table tennis
+2211	1	1	4	20	0	6	Books
+2212	1	0	4	20	0	6	Novel television series
+2213	1	0	4	5	4	6	Knock cp
+2214	1	1	4	20	0	6	Listen to music
+2215	1	1	4	4	0	12	quadratic element
+2216	2	1	4	19	2	6	Games
+2217	2	1	4	20	0	24	Music, games
+2218	2	1	4	20	0	24	history
+2219	1	0	4	0	0	6	Painting
+2220	2	1	4	20	0	6	Play ball, play games
+2221	1	0	4	20	0	6	play badminton
+2222	2	1	4	20	0	6	Games
+2223	1	0	4	20	0	6	Sing
+2224	2	1	4	20	0	6	Music
+2225	1	1	4	20	0	6	Naruto
+2226	1	0	4	20	0	6	Love to follow the drama, watch the video
+2227	1	1	4	20	0	30	Games
+2228	1	0	4	0	0	6	Sing
+2229	1	0	4	13	1	16	Photography, listening to music, reading
+2230	2	1	4	20	0	6	None
+2231	2	1	4	20	0	6	No, I didn't
+2232	1	1	4	0	2	6	Badminton
+2233	2	1	4	20	0	6	Play table tennis
+2234	3	0	4	5	1	3	anime
+2235	4	1	3	3	1	3	Watch the video
+2236	4	1	3	7	1	3	chatter
+2237	2	0	3	7	1	3	beauty make-up
+2238	3	1	3	7	1	3	Play video games
+2239	4	1	4	7	1	3	Reading
+2240	4	0	3	7	2	3	play chasing
+2241	3	1	3	4	1	3	Play video games
+2242	3	1	3	4	1	3	play ball
+2243	4	0	4	4	2	3	play chasing
+2244	1	1	7	20	0	7	play basketball
+2245	1	0	2	20	0	6	play the piano
+2246	1	1	2	20	0	6	fish
+2247	1	1	2	20	0	6	Sleep
+2248	1	0	3	20	0	6	Reading
+2249	1	1	3	20	0	6	anime
+2250	1	0	2	20	0	6	Painting
+2251	1	1	2	20	0	6	Painting
+2252	1	1	2	20	0	6	Games
+2253	1	1	3	20	0	6	novel
+2254	0	1	2	20	0	6	Dance
+2255	1	1	3	0	0	3	Music
+2256	3	0	4	10	1	6	Dance
+2257	1	0	2	20	0	6	Listen to music
+2258	1	1	3	18	0	27	Badminton
+2259	5	1	4	20	1	7	Riding
+2260	1	1	2	20	0	6	play the guitar
+2261	1	1	2	20	0	6	basketball
+2262	1	1	2	20	0	6	Games
+2263	1	0	2	20	1	6	basketball
+2264	2	1	3	3	1	3	Tourism
+2265	2	0	4	2	0	17	Watch the video
+2266	2	0	4	20	3	6	Reading
+2267	3	1	3	0	0	3	Games
+2268	2	1	3	0	0	3	Music
+2269	1	1	2	0	0	6	Billiards
+2270	2	1	4	19	2	2	Fitness
+2271	2	1	4	0	1	6	Running
+2272	1	1	2	20	0	6	play basketball
+2273	2	0	3	20	1	6	Listen to music
+2274	2	1	4	1	2	27	acting
+2275	1	1	3	20	0	6	Comics
+2276	1	1	5	1	2	7	Tourism
+2277	1	1	2	20	0	6	Play
+2278	1	1	2	20	0	6	E-sports
+2279	1	1	7	20	0	6	play basketball
+2280	1	0	2	20	0	6	Sing
+2281	1	0	2	20	0	6	play the piano
+2282	2	0	4	5	1	4	News
+2283	1	1	7	20	0	2	flying kick
+2284	1	0	2	20	0	6	Sing
+2285	2	1	3	0	0	3	Music
+2286	2	0	5	2	1	7	Tourism
+2287	1	0	2	20	0	6	Dance
+2288	1	0	2	20	0	3	Sing
+2289	1	1	2	20	0	6	Play
+2290	1	0	7	5	0	6	Badminton
+2291	5	1	3	20	0	6	Drive
+2292	1	1	7	20	0	6	play basketball
+2293	2	0	4	4	1	4	Photography
+2294	1	1	2	20	0	6	basketball
+2295	2	0	3	20	1	6	Dance
+2296	3	1	4	18	2	3	swim
+2297	1	1	2	20	0	6	Listen to music
+2298	1	1	7	20	0	6	play basketball
+2299	1	1	2	20	0	6	basketball
+2300	1	1	7	5	0	6	play basketball
+2301	2	1	4	20	2	6	rap
+2302	1	1	2	20	0	6	stroll
+2303	1	1	7	20	0	6	play badminton
+2304	1	0	2	20	0	6	Listen to music
+2305	1	0	2	20	0	6	Reading
+2306	1	1	4	1	1	1	Take a walk
+2307	3	1	5	11	2	6	Badminton
+2308	1	0	2	20	0	6	flower arrangement
+2309	1	0	4	20	0	6	shoot
+2310	1	0	2	20	0	6	Sing
+2311	1	0	2	20	1	6	Painting
+2312	1	1	7	20	0	6	play basketball
+2313	1	0	2	20	0	6	Play video games
+2314	1	0	3	0	1	6	swim
+2315	1	1	2	20	0	6	Painting
+2316	1	1	3	0	0	6	Sing
+2317	1	1	3	20	0	6	anime
+2318	1	1	2	20	0	6	motorcycle
+2319	1	1	7	20	0	6	Delicious food
+2320	1	1	3	20	0	6	anime
+2321	1	1	2	20	0	6	Games
+2322	1	1	3	20	0	7	swim
+2323	1	1	2	20	0	6	Play video games
+2324	1	0	2	20	0	6	skip rope
+2325	1	1	2	20	0	6	Working
+2326	1	1	2	20	0	6	read a novel
+2327	1	1	7	5	1	6	play basketball
+2328	1	1	7	20	0	7	play basketball
+2329	1	1	3	20	0	6	boating
+2330	1	1	7	20	0	6	Delicious food
+2331	2	0	3	19	1	24	wine
+2332	3	1	4	19	1	7	basketball
+2333	1	1	2	20	0	6	Games
+2334	1	1	3	20	0	6	anime
+2335	1	1	7	5	0	6	Table tennis
+2336	1	1	7	20	0	4	play basketball
+2337	1	0	2	20	0	6	read a novel
+2338	1	1	2	20	0	6	play football
+2339	1	0	2	20	2	6	Reading
+2340	1	0	2	20	0	6	Listen to music
+2341	1	0	1	20	0	6	anime
+2342	1	1	3	0	1	6	long jump
+2343	1	0	2	20	0	6	Sing
+2344	1	1	7	5	0	6	basketball
+2345	1	0	2	20	0	6	Sing
+2346	1	1	2	20	0	6	wear and tie
+2347	1	1	2	20	0	6	play basketball
+2348	1	0	7	20	0	1	kick shuttlecock
+2349	1	0	1	20	0	6	Dance
+2350	2	1	5	0	1	7	See a movie
+2351	1	1	2	20	0	6	Sleep
+2352	1	0	2	20	0	6	play the piano
+2353	3	0	4	10	0	6	Fitness
+2354	2	0	2	20	0	22	play basketball
+2355	1	1	7	20	0	6	Play games
+2356	1	0	2	20	0	6	swim
+2357	1	1	7	5	0	6	swim
+2358	1	1	2	20	0	2	Sing
+2359	1	0	3	0	1	6	Sing
+2360	1	1	3	20	0	6	anime
+2361	1	1	2	20	0	6	Play video games
+2362	1	1	2	20	0	6	Games
+2363	1	0	2	20	1	6	Listen to music
+2364	1	1	2	20	0	1	play basketball
+2365	3	1	4	0	1	3	Fitness
+2366	3	0	5	4	2	4	Volleyball
+2367	1	1	2	20	0	6	Sleep
+2368	1	0	2	20	0	6	Listen to music
+2369	1	0	2	20	0	6	play badminton
+2370	1	1	7	20	0	6	swim
+2371	0	0	2	20	0	6	Sing
+2372	2	0	3	20	0	6	Table tennis
+2373	1	0	2	20	0	6	play the piano
+2374	1	1	2	20	0	5	Play video games
+2375	1	0	7	5	0	6	swim
+2376	2	0	3	20	3	6	Reading
+2377	2	1	4	3	1	1	swim
+2378	2	1	5	0	1	8	Fishing
+2379	2	0	2	20	0	6	Reading
+2380	1	0	2	20	0	6	play basketball
+2381	1	1	4	20	0	6	Funny video
+2382	1	1	3	20	0	6	anime
+2383	1	1	2	20	0	6	mountain climbing
+2384	3	1	4	9	1	3	Sing
+2385	1	1	2	20	0	6	E-sports
+2386	2	1	3	1	1	7	Fitness
+2387	1	1	7	20	0	1	play basketball
+2388	2	0	3	3	1	7	Painting
+2389	1	1	2	20	0	4	write with a brush
+2390	0	1	2	20	0	6	Watch the video
+2391	1	1	2	20	0	3	hip-hop
+2392	1	1	2	20	0	6	writing
+2393	2	0	4	2	1	4	Painting
+2394	1	1	2	20	1	6	basketball
+2395	1	1	7	20	0	6	Entertainment
+2396	5	1	2	20	1	6	Clip Video
+2397	1	1	7	20	0	6	Football
+2398	1	1	2	20	0	6	Play video games
+2399	1	0	3	20	0	6	Painting
+2400	1	0	3	0	1	4	See a movie
+2401	1	1	7	20	0	1	play basketball
+2402	1	1	3	1	1	6	Sing
+2403	1	1	2	20	1	6	Dance
+2404	1	1	3	20	0	6	anime
+2405	1	0	2	20	0	1	Sing
+2406	0	1	4	2	0	8	Watch the video
+2407	1	1	2	20	1	6	guitar
+2408	1	1	7	20	0	1	Play games
+2409	3	0	4	20	1	6	Sing
+2410	2	0	3	20	0	19	Sing
+2411	1	1	7	20	0	1	play basketball
+2412	1	0	3	0	2	24	swim
+2413	1	1	7	5	0	6	play basketball
+2414	1	0	2	20	0	6	Listen to music
+2415	1	1	7	5	0	6	basketball
+2416	4	0	3	18	1	6	swim
+2417	1	1	2	1	1	6	Photography
+2418	1	0	2	20	1	6	Dance
+2419	2	1	3	2	1	6	Play video games
+2420	2	0	3	1	0	21	basketball
+2421	1	0	2	20	0	6	Painting
+2422	1	1	2	20	0	6	Play video games
+2423	1	1	2	20	0	6	DANCE
+2424	1	1	7	20	0	6	play badminton
+2425	2	0	3	20	1	7	Sing
+2426	1	0	2	5	0	6	Sing
+2427	1	1	3	20	0	6	anime
+2428	1	0	1	4	0	5	Drink
+2429	3	1	4	9	1	6	Volleyball
+2430	1	0	2	20	3	6	Playing with mobile phones
+2431	1	1	2	20	0	6	Clip Video
+2432	1	0	2	20	1	6	Sing
+2433	1	0	2	20	0	6	play the piano
+2434	1	0	5	2	1	4	Listen to music
+2435	1	1	7	20	0	6	play basketball
+2436	2	0	3	1	2	8	Eat
+2437	1	1	2	20	0	6	basketball
+2438	1	0	2	20	0	4	beauty make-up
+2439	1	1	2	20	0	6	animal husbandry
+2440	1	1	7	5	0	6	Football
+2441	2	1	3	18	1	7	basketball
+2442	2	0	3	0	1	7	read a novel
+2443	1	0	3	20	0	6	Dance
+2444	1	0	2	20	0	3	Dance
+2445	2	0	2	4	0	8	Badminton
+2446	1	1	2	20	0	6	Play video games
+2447	1	1	2	20	0	6	play the piano
+2448	2	1	3	4	1	8	play basketball
+2449	1	0	2	20	0	6	Sing
+2450	2	0	1	1	1	6	Eat
+2451	3	1	3	20	0	12	Games, music, movies
+2452	1	1	7	20	4	6	Eat
+2453	1	1	7	5	0	6	play basketball
+2454	1	1	2	20	0	6	Look at the beauty
+2455	1	0	3	20	0	6	Painting
+2456	1	1	4	0	0	3	Clip Video
+2457	1	1	2	20	0	6	fly a kite
+2458	1	1	4	1	1	5	mountain climbing
+2459	2	1	3	17	1	6	basketball
+2460	2	0	3	20	1	6	DANCE
+2461	1	1	7	20	0	1	play basketball
+2462	2	0	4	20	1	7	See a movie
+2463	2	0	2	2	0	2	Running
+2464	1	0	2	20	1	6	Sing
+2465	1	1	7	20	0	6	Billiards
+2466	1	1	2	20	0	6	E-sports
+2467	0	1	2	20	0	6	hip-hop
+2468	1	0	2	20	0	6	Listen to music
+2469	1	1	2	20	0	6	play football
+2470	1	1	7	20	0	6	Badminton
+2471	2	0	3	4	0	8	play tennis
+2472	1	0	1	20	0	6	Sing
+2473	1	0	2	20	0	6	Reading
+2474	1	1	3	20	0	6	anime
+2475	4	1	3	20	0	6	Tourism
+2476	1	0	2	20	0	6	play badminton
+2477	1	0	7	20	0	6	common sense of life
+2478	0	0	2	20	0	6	Dance
+2479	1	1	2	20	0	6	Sing
+2480	2	1	3	0	0	6	play billiards
+2481	1	1	2	20	0	6	Games
+2482	1	0	7	20	0	6	swim
+2483	1	1	4	2	1	3	Reading
+2484	1	1	2	20	1	6	play the piano
+2485	1	1	2	20	0	6	Watching sad videos
+2486	1	1	3	1	2	2	Video
+2487	1	1	3	2	0	6	mountain climbing
+2488	1	1	7	5	0	6	play basketball
+2489	1	1	2	20	0	4	Football
+2490	1	1	3	20	0	6	anime
+2491	1	1	7	20	0	6	feathering device
+2492	1	1	2	20	0	6	Dance videos
+2493	1	0	2	20	0	6	Listen to music
+2494	1	1	2	20	0	6	Comics
+2495	1	0	2	20	1	6	Running
+2496	1	1	2	20	0	6	E-sports
+2497	2	0	3	3	0	2	drum set
+2498	1	0	2	20	0	6	Sing
+2499	1	1	7	20	0	6	Billiards
+2500	1	1	2	20	1	6	Reading
+2501	1	1	7	5	0	6	basketball
+2502	2	1	3	20	0	6	boating
+2503	1	0	2	20	0	6	Photography
+2504	1	1	2	20	0	6	motorcycle
+2505	1	1	3	20	0	6	anime
+2506	1	1	2	20	0	6	basketball
+2507	1	1	2	20	0	6	basketball
+2508	2	1	2	20	0	6	Reading
+2509	1	1	7	5	0	5	play badminton
+2510	1	1	2	20	0	6	Table tennis
+2511	2	0	2	2	0	3	Sing
+2512	1	1	7	20	0	6	workplace
+2513	1	1	7	5	0	1	play badminton
+2514	1	1	2	20	0	6	Watch the video
+2515	2	0	3	0	1	2	play billiards
+2516	1	1	7	20	0	6	Badminton
+2517	2	1	3	1	0	8	Fitness
+2518	1	0	2	20	0	6	Listen to music
+2519	1	1	2	20	0	6	E-sports
+2520	0	0	2	20	0	6	rap
+2521	3	0	3	17	1	1	Dance
+2522	1	1	2	20	1	6	Dance
+2523	1	1	3	20	0	6	play basketball
+2524	1	1	2	20	0	6	Football
+2525	1	0	7	20	0	2	Dance
+2526	1	1	7	20	0	6	Billiards
+2527	1	0	4	17	1	8	See a movie
+2528	3	1	3	20	0	6	Shopping
+2529	1	1	2	20	0	6	Games
+2530	1	1	2	20	0	6	basketball
+2531	1	1	7	20	0	6	ghost animal
+2532	1	1	2	20	0	6	Games
+2533	1	1	2	20	1	6	swim
+2534	1	0	2	20	0	6	swim
+2535	1	1	7	20	0	6	swim
+2536	1	1	7	20	0	5	swim
+2537	2	1	2	20	1	6	Listen to music
+2538	2	0	2	20	0	3	Sing
+2539	1	1	2	20	0	6	swiping video
+2540	1	1	2	20	0	7	play basketball
+2541	1	1	2	20	0	6	basketball
+2542	1	1	3	20	0	6	Play video games
+2543	2	1	3	20	0	6	Sleep
+2544	1	1	7	20	0	6	abstract
+2545	1	0	3	5	1	6	Sing
+2546	4	0	4	0	0	6	anime
+2547	5	0	4	0	0	6	Fine arts
+2548	5	0	3	0	0	6	Delicious food
+2549	4	0	4	0	0	6	Star-chasing
+2550	4	0	3	17	1	7	Tourism
+2551	4	1	3	0	0	6	play ball
+2552	5	0	3	0	0	6	Sing
+2553	4	0	3	20	0	6	film
+2554	5	1	2	18	0	6	Play games
+2555	1	1	2	20	0	6	Watch the video
+2556	5	0	3	3	0	6	Tourism
+2557	2	0	2	0	0	8	Meditation
+2558	4	0	2	0	0	6	Reading
+2559	5	0	3	0	0	6	Games
+2560	3	0	3	0	0	6	Eight Trigrams
+2561	1	1	2	20	0	6	Billiards
+2562	4	0	4	2	0	6	film
+2563	5	0	3	0	1	6	movement
+2564	4	0	4	0	0	6	Sing
+2565	5	1	3	0	0	6	Reading
+2566	3	1	3	0	0	6	movement
+2567	0	1	7	20	0	6	play basketball
+2568	5	0	3	0	0	6	Music
+2569	3	0	4	0	0	6	Music and dance
+2570	3	1	4	4	0	8	Play games
+2571	1	1	2	20	0	6	Listen to music
+2572	1	0	2	20	0	6	Listen to music
+2573	1	1	3	20	0	6	anime
+2574	1	1	3	20	0	6	Funny
+2575	3	0	4	0	0	6	film and television
+2576	2	0	3	2	0	2	swim
+2577	1	1	2	20	0	6	Listen to music
+2578	5	1	3	0	0	6	Watch the play
+2579	1	1	2	0	0	6	Running
+2580	1	1	7	20	0	6	Badminton
+2581	0	0	2	20	0	6	flower arrangement
+2582	1	1	2	20	1	6	Dance
+2583	1	1	3	20	0	6	game sport
+2584	1	1	7	20	0	6	Billiards
+2585	1	0	2	20	0	6	Meditation
+2586	1	0	4	20	0	6	None
+2587	3	0	4	20	0	6	Painting
+2588	5	0	4	20	0	6	Reading
+2589	4	0	4	0	0	6	Badminton, swimming
+2590	5	0	4	0	0	6	Reading
+2591	4	0	3	0	0	6	Travel
+2592	4	0	4	3	1	6	Star-chasing
+2593	3	0	3	0	1	6	Hey, dog
+2594	4	0	3	20	0	6	go shopping
+2595	3	0	3	0	0	6	Tourism
+2596	4	0	3	0	0	6	Star
+2597	4	0	3	0	0	6	See a movie
+2598	4	0	3	0	0	6	Listen to music
+2599	4	0	4	0	0	6	Small animals
+2600	3	0	4	0	0	6	Music, anime
+2601	5	0	3	20	0	6	Shopping
+2602	4	0	3	0	0	6	See a movie
+2603	4	0	4	4	2	6	Shopping
+2604	5	0	3	0	0	6	cook
+2605	4	0	4	5	0	6	TV series
+2606	4	0	4	0	0	6	Sing
+2607	5	0	3	2	0	6	Fine arts, tourism
+2608	4	0	4	0	0	6	art reading
+2609	4	0	3	0	0	6	Listen to music
+2610	4	0	3	0	0	6	movement
+2611	4	0	2	0	0	6	Shopping
+2612	5	0	4	0	0	6	beauty make-up
+2613	5	0	3	5	0	6	Delicious food
+2614	4	0	3	0	0	6	See a movie
+2615	4	0	3	20	0	5	film
+2616	4	1	3	0	0	6	Games
+2617	6	0	3	0	0	6	Music
+2618	5	0	4	0	0	6	Delicious food
+2619	2	1	3	0	0	3	Badminton
+2620	1	1	7	5	0	6	play basketball
+2621	1	1	2	20	0	6	computer
+2622	1	0	2	20	0	6	Listen to music
+2623	1	1	2	20	0	6	Love editing
+2624	1	1	2	20	0	6	Billiards
+2625	1	0	2	20	0	6	Fine arts,
+2626	1	1	3	20	0	6	anime
+2627	1	1	2	20	0	6	Listen to music
+2628	1	1	3	20	0	6	anime
+2629	1	1	7	20	0	6	digital code
+2630	1	1	2	20	0	6	Sing
+2631	1	0	2	20	0	6	Listen to music
+2632	1	0	2	20	0	6	Sing
+2633	1	0	2	20	0	6	Painting
+2634	1	0	2	20	0	6	play chasing
+2635	1	0	2	20	0	6	Meditation
+2636	1	1	2	20	0	6	basketball
+2637	1	1	7	20	0	6	play basketball
+2638	1	1	2	20	0	6	play billiards
+2639	1	0	2	20	0	6	Listen to music
+2640	1	1	2	20	1	6	Sing
+2641	1	1	2	20	0	6	computer
+2642	1	1	2	20	0	6	Basketball game
+2643	1	1	2	0	0	6	film
+2644	6	1	4	0	1	3	Billiards
+2645	1	0	4	4	0	6	Badminton
+2646	3	1	5	2	3	7	Painting
+2647	1	1	3	20	0	6	Sing
+2648	2	0	3	2	1	6	swim
+2649	2	1	4	2	1	6	Play games
+2650	1	0	4	9	0	6	Table tennis
+2651	1	0	4	20	0	6	Badminton
+2652	1	0	3	20	0	6	Table tennis
+2653	1	0	3	20	0	6	Table tennis
+2654	2	0	7	0	2	6	Painting
+2655	2	0	3	20	0	6	None
+2656	1	0	3	5	0	6	Eat
+2657	1	1	4	5	2	2	Military
+2658	2	0	3	3	0	6	play volleyball
+2659	1	0	3	16	2	6	Cycling
+2660	1	0	4	20	1	7	Play
+2661	2	0	3	0	0	6	basketball
+2662	2	1	4	0	1	6	play basketball
+2663	1	0	3	5	2	6	play table tennis
+2664	1	0	3	20	0	6	Badminton
+2665	1	1	3	2	0	6	Beautiful
+2666	3	0	4	10	0	11	None
+2667	5	1	4	8	1	6	Singing, fitness, swimming
+2668	5	1	5	0	2	6	Programming
+2669	2	1	3	20	0	6	basketball
+2670	4	1	4	0	1	6	Travel
+2671	2	0	4	20	0	6	Singing and watching plays
+2672	1	0	3	20	0	16	Swipe videos, play games
+2673	2	0	3	20	0	6	Play video games
+2674	4	0	3	5	0	6	Sing
+2675	5	0	3	20	1	6	Reading
+2676	5	0	3	20	0	5	Sports
+2677	5	0	4	0	0	6	See a movie
+2678	1	1	3	20	0	6	history
+2679	4	0	4	0	2	6	Sports, singing
+2680	4	1	3	20	0	6	Listen to music
+2681	4	0	3	5	0	6	Sing
+2682	4	0	3	0	0	6	play chasing
+2683	4	0	3	0	0	6	Delicious food
+2684	5	0	4	0	0	6	Watch TV, go shopping
+2685	4	0	4	3	0	6	Yoga
+2686	4	0	4	20	0	6	Sing
+2687	6	0	4	3	1	6	Writing, photography, travel
+2688	4	0	4	2	1	6	Painting
+2689	4	1	4	0	0	6	movement
+2690	5	0	4	0	0	6	Sing
+2691	4	0	3	0	0	6	Cooking fitness
+2692	4	0	4	0	0	6	Painting
+2693	5	0	3	5	0	6	Listen to music
+2694	5	0	3	20	0	6	Play video games
+2695	4	0	3	4	2	6	Making gourmet food
+2696	5	0	3	2	0	6	Entertainment
+2697	5	0	4	0	1	6	Delicious food
+2698	4	0	3	0	0	6	swim
+2699	5	0	4	0	0	6	Tourism
+2700	3	1	3	19	0	6	Tourism
+2701	5	0	3	0	0	6	Dance
+2702	3	0	3	0	0	6	Dance
+2703	4	0	3	0	0	6	Tourism
+2704	4	0	3	0	0	6	Reading
+2705	4	0	3	5	0	6	Dance
+2706	5	1	2	4	0	6	Tourism
+2707	4	0	2	18	0	6	Sing
+2708	4	0	4	5	1	6	Listen to music
+2709	5	0	7	0	1	6	movement
+2710	4	0	4	4	1	8	movement
+2711	4	0	4	5	0	6	Music, writing
+2712	4	0	2	0	1	6	Dance
+2713	5	0	3	0	0	6	Running
+2714	3	0	3	0	0	6	Reading
+2715	5	0	4	0	0	6	Tourism
+2716	5	0	3	0	0	6	Delicious food
+2717	4	0	4	0	0	6	Art
+2718	4	0	4	20	0	6	movement
+2719	4	0	4	0	1	7	Dance
+2720	5	0	4	0	0	6	Shopping, listening to music
+2721	3	0	4	0	0	6	Music, sports
+2722	5	0	3	0	0	6	reading tour
+2723	4	0	3	20	0	6	Shopping
+2724	5	0	3	1	1	6	play chasing
+2725	5	0	3	20	0	6	Tourism
+2726	3	0	3	0	0	6	Sing
+2727	4	0	3	0	0	6	Take a walk
+2728	5	0	4	0	0	6	Shopping
+2729	5	0	4	0	0	6	swim
+2730	3	0	4	0	1	6	Delicious food
+2731	5	0	2	0	0	6	Sleep
+2732	5	1	3	18	0	6	Fitness
+2733	2	1	3	1	1	6	Games, anime
+2734	4	1	4	0	0	6	curio
+2735	5	1	3	0	0	6	Writing
+2736	5	0	7	0	1	6	Delicious food
+2737	4	0	4	0	0	6	skip rope
+2738	4	1	3	4	1	6	basketball
+2739	4	0	4	0	0	6	Life
+2740	1	0	3	20	0	6	Write a novel
+2741	4	1	3	0	0	6	basketball
+2742	0	1	3	0	0	6	calligraphy
+2743	2	0	3	20	0	6	Singing and writing novels
+2744	2	0	3	2	0	6	Delicious food
+2745	4	0	5	0	1	6	Travel, read books
+2746	5	0	4	0	1	6	Travel, read books
+2747	4	0	5	0	0	6	skip rope
+2748	3	0	4	0	0	6	Sing
+2749	5	0	3	0	0	6	DANCE
+2750	5	0	3	0	0	6	Delicious food
+2751	5	0	3	20	0	6	Tourism
+2752	4	0	3	20	0	6	Tourism
+2753	4	0	2	0	0	6	Music
+2754	5	0	3	0	0	6	movement
+2755	5	0	4	5	0	6	Delicious food
+2756	4	0	3	0	0	6	movement
+2757	2	0	3	0	0	6	Tourism
+2758	4	0	3	0	0	6	See a movie
+2759	6	0	4	0	0	6	Tourism
+2760	4	1	3	20	0	6	Sports
+2761	4	0	3	20	0	6	Watch TV series
+2762	4	1	3	0	0	6	Football
+2763	4	0	5	0	0	6	Food films
+2764	5	0	7	0	1	6	Tourism
+2765	5	1	2	0	0	6	sports music
+2766	4	0	4	0	0	6	movement
+2767	6	0	4	5	1	6	go shopping
+2768	5	0	3	0	0	6	Reading
+2769	5	0	3	0	1	6	swim
+2770	4	0	3	0	0	6	Music
+2771	4	0	3	0	0	6	film
+2772	4	0	3	20	0	6	Sing
+2773	5	1	3	0	0	6	movement
+2774	5	0	3	20	0	6	novel
+2775	6	1	3	4	1	6	Football
+2776	4	0	4	0	0	6	Delicious food
+2777	4	1	4	0	0	6	Anime games, music books
+2778	5	1	3	0	0	6	Riding
+2779	1	0	3	20	0	6	play the guitar
+2780	1	1	3	0	2	6	basketball
+2781	2	0	7	0	2	6	guitar
+2782	2	0	3	20	0	29	Painting
+2783	2	0	3	20	0	7	Listening to songs, watching plays, badminton
+2784	1	0	3	3	1	6	Badminton
+2785	2	0	3	8	0	6	play badminton
+2786	2	0	3	20	0	6	None
+2787	1	0	3	16	1	6	Cycling
+2788	1	1	3	0	0	6	Games
+2789	2	0	3	2	0	6	Painting, music
+2790	4	0	3	0	0	6	Eat
+2791	4	0	3	0	0	6	See a movie
+2792	3	0	3	0	0	6	Watch variety shows
+2793	4	0	3	0	0	6	Listen to music
+2794	4	0	3	0	0	6	Listen to music
+2795	4	0	3	0	0	6	Sleep
+2796	4	0	4	0	0	6	Listen to music
+2797	4	0	3	20	0	6	be in a daze
+2798	5	0	3	0	0	6	Wang Yibo, Xiao Zhanhe TV series
+2799	6	1	3	20	0	6	See a movie
+2800	5	0	3	0	0	6	Music
+2801	5	0	4	0	0	6	Listen to music
+2802	5	1	3	0	0	6	Game animation
+2803	5	0	4	0	0	6	Listen to music
+2804	4	0	2	0	0	6	Tourism
+2805	4	0	3	3	0	6	movement
+2806	6	1	4	0	0	6	Sing
+2807	5	0	3	0	0	6	None
+2808	3	1	2	0	0	6	novel
+2809	5	0	3	0	0	6	Delicious food
+2810	5	0	3	0	0	6	Reading
+2811	3	0	4	0	0	6	See a movie
+2812	5	1	3	0	0	6	Music, games
+2813	5	1	3	20	0	6	Sports
+2814	4	0	4	0	0	6	TV series
+2815	5	1	3	0	0	6	Games
+2816	5	0	3	0	0	6	Listen to music
+2817	5	1	4	0	0	6	Photography, music
+2818	5	0	4	0	0	6	Fitness
+2819	5	0	4	0	0	6	Star-chasing
+2820	5	0	4	5	1	6	Reading
+2821	4	1	3	0	0	6	Eat
+2822	2	0	4	20	0	5	Music, Dance, Comics, Blackpink
+2823	4	1	4	0	2	6	Singing and dancing RAP basketball
+2824	2	0	4	20	0	6	play chasing
+2825	1	0	3	20	0	6	play badminton
+2826	1	0	3	20	0	6	Sing
+2827	1	0	3	20	0	6	Eat
+2828	2	1	3	20	0	5	Badminton
+2829	1	0	3	20	0	6	movement
+2830	1	0	3	20	0	6	Chasing stars, cross talk, dancing
+2831	1	0	3	20	0	8	Listen to music
+2832	2	0	3	20	0	7	Volleyball
+2833	1	0	3	20	0	6	Painting
+2834	1	0	3	5	0	6	Badminton
+2835	1	0	3	20	0	6	Listen to music
+2836	2	1	3	20	0	6	None
+2837	2	1	3	3	1	6	Music movement
+2838	8	0	2	20	0	6	Sports, film and television
+2839	2	1	4	10	0	16	play basketball
+2840	3	1	4	3	1	6	play basketball
+2841	2	1	4	20	1	6	basketball
+2842	8	1	4	10	0	6	History, Geography, Tourism
+2843	2	1	4	2	1	6	basketball
+2844	4	1	5	0	3	9	coding
+2845	2	0	4	20	0	6	Study, makeup
+2846	2	1	4	0	0	6	basketball
+2847	1	1	2	5	0	6	guitar
+2848	5	1	5	20	2	6	Music Food
+2849	3	0	4	9	0	17	Read novels and listen to radio plays
+2850	5	1	2	20	1	6	Dog
+2851	4	0	4	5	1	6	Reading
+2852	3	0	4	19	1	19	Read. Foreign languages
+2853	2	0	4	20	0	16	movement
+2854	4	0	3	10	0	16	Travel, drama, reading
+2855	2	0	5	20	0	12	Reading
+2856	5	0	4	3	2	1	Reading, learning, food, travel
+2857	1	0	4	20	0	12	calligraphy
+2858	4	0	4	5	0	14	None
+2859	2	0	4	0	1	6	Travel
+2860	4	1	4	0	2	6	Music
+2861	2	0	3	0	0	16	tourism reading
+2862	4	0	4	20	1	17	Reading
+2863	2	0	3	0	0	16	Play video games
+2864	3	0	3	0	0	16	Outdoor sports
+2865	4	0	3	0	0	16	Travel, go to the movies
+2866	4	0	3	20	1	6	Watch TV
+2867	5	0	5	10	1	6	Reading books, surfing the Internet and traveling
+2868	1	1	3	0	0	16	cook
+2869	2	0	4	20	0	16	See a movie
+2870	2	1	3	0	0	16	Learning
+2871	2	0	3	0	0	16	Reading
+2872	2	0	4	20	0	27	movement
+2873	2	0	3	20	0	16	Listen to music
+2874	1	0	3	20	0	16	play chasing
+2875	4	0	4	5	0	11	read a novel
+2876	2	1	4	0	0	3	Singing and dancing rap basketball
+2877	4	0	3	4	1	19	Listen to music, read
+2878	4	0	4	4	1	19	Delicious food
+2879	1	1	2	20	0	16	Table tennis, online games
+2880	1	1	4	20	0	6	basketball
+2881	5	1	3	4	1	1	Outdoor sports, good food
+2882	3	1	4	3	1	1	None
+2883	1	0	3	20	0	13	Listen to songs and read books
+2884	2	0	4	20	0	19	See a movie
+2885	4	1	4	9	0	6	Movie games
+2886	2	0	4	20	0	19	See a movie
+2887	2	1	4	19	1	5	ebook
+2888	5	0	7	20	0	9	Reading
+2889	2	1	4	20	0	24	Reading, playing chess, playing basketball
+2890	5	0	4	5	1	6	Reading
+2891	2	1	4	20	0	10	Play games
+2892	2	1	5	4	0	7	None
+2893	2	0	4	20	0	6	anime
+2894	2	1	4	0	1	6	cogs
+2895	2	1	5	2	0	6	Sing
+2896	1	0	4	20	0	31	film tourism
+2897	1	1	4	20	0	6	Spoken English, computer, playing badminton
+2898	2	1	4	0	2	6	Games
+2899	3	1	4	9	0	6	Reading novels, traveling
+2900	3	0	4	11	0	4	Watch TV
+2901	2	0	4	20	0	28	Sing
+2902	8	0	1	15	0	6	Sing
+2903	5	1	3	13	1	6	Fitness
+2904	3	0	3	4	0	3	Sing
+2905	2	1	3	3	1	16	Games
+2906	3	1	4	1	1	6	Watching movies and listening to music
+2907	3	0	5	0	3	1	Animation; movies
+2908	2	0	4	20	0	13	Reading
+2909	4	0	4	20	0	6	Read, watch movies
+2910	4	0	4	5	0	16	Writing
+2911	3	0	5	20	0	28	Running
+2912	2	0	4	20	0	17	Reading
+2913	5	0	4	20	0	6	Reading
+2914	5	1	4	5	1	6	movement
+2915	3	0	4	4	2	6	Singing and dancing
+2916	2	0	4	10	1	27	play table tennis
+2917	5	1	4	19	0	8	Painting
+2918	2	1	5	20	0	6	Reading
+2919	4	0	3	7	0	5	Tourism
+2920	5	1	4	20	1	6	Reading
+2921	5	1	4	20	0	6	Cooking, food
+2922	2	0	3	3	1	6	Games, music
+2923	3	0	3	10	0	19	Eat
+2924	2	1	4	4	0	6	computer
+2925	3	1	4	18	2	5	Play video games
+2926	2	0	4	20	0	3	Painting
+2927	2	0	4	20	0	6	Sing
+2928	2	0	3	20	0	27	Running
+2929	3	0	4	20	1	19	mountain climbing
+2930	5	0	4	20	0	9	movement
+2931	1	0	4	20	0	6	Sleep
+2932	5	0	4	5	1	4	Watch the play, eat food
+2933	3	0	4	20	0	9	Exercise, listen to music, watch movies
+2934	2	0	4	20	0	8	Eat and drink
+2935	2	0	4	20	0	17	Reading
+2936	2	0	5	0	0	8	Tourism
+2937	4	0	5	20	0	1	Singing and dancing
+2938	3	0	4	3	1	22	play
+2939	4	0	4	5	0	8	Current Political Hot News China Traditional Culture Food Music
+2940	6	0	3	5	0	6	Photography
+2941	3	0	5	10	0	6	Reading
+2942	3	0	4	20	0	16	Reading
+2943	3	0	4	3	4	4	Reading, writing
+2944	2	0	4	4	0	6	Reading
+2945	3	0	4	16	2	1	Listen to music
+2946	2	0	5	20	0	1	Reading, traveling, watching plays
+2947	3	0	4	20	0	16	Music
+2948	4	0	4	18	0	2	See a movie
+2949	1	0	4	2	0	6	Star-chasing
+2950	1	0	4	20	0	16	read extracurricular books
+2951	4	0	3	5	1	19	Watch TV
+2952	1	0	4	5	0	17	Sing
+2953	4	0	3	5	0	16	Tourism
+2954	2	0	4	20	0	18	Painting, food, stories
+2955	3	1	3	0	1	6	Reading
+2956	4	0	3	20	0	7	History, traditional Chinese culture, games
+2957	2	0	3	20	0	6	Painting, singing
+2958	3	1	4	10	1	6	Mountain climbing, biking, piano
+2959	2	1	4	20	0	21	See a movie
+2960	4	0	4	0	1	6	Reading
+2961	5	0	4	5	0	6	Movies, travel
+2962	2	0	4	20	0	21	Watch TV series
+2963	3	0	4	5	1	6	Read, watch movies
+2964	5	0	3	13	1	3	Travel, reading, sports
+2965	3	1	5	0	2	2	Sing
+2966	4	0	4	16	0	6	Take a picture
+2967	4	1	2	2	0	3	Play video games
+2968	5	0	3	5	0	6	Read books, listen to music
+2969	5	0	3	20	0	6	Read, listen to music
+2970	4	0	4	8	0	6	Watching movies, TV series, anime
+2971	4	0	4	0	1	19	Play games, read books, collect books, eat
+2972	3	0	4	5	1	5	See a movie
+2973	3	0	4	20	0	6	Travel, go to the movies, sing
+2974	3	0	3	20	0	6	pet sports tourism
+2975	4	0	3	20	0	6	Reading, movies, games
+2976	3	0	3	20	0	6	See a play, watch a movie, play a string
+2977	6	0	5	20	0	6	Baking, reading
+2978	5	0	4	20	0	6	Play the piano and watch the play
+2979	4	0	4	11	0	15	Watch the show, shop
+2980	5	0	4	11	1	6	Sing
+2981	3	0	4	20	0	4	Painting
+2982	5	0	3	5	0	6	Reading, swimming, running
+2983	1	1	4	20	0	12	Novels, games
+2984	5	0	4	20	0	6	Painting, singing, playing table tennis
+2985	2	0	4	5	0	23	Reading
+2986	3	1	3	19	1	3	Reading
+2987	2	0	3	0	1	15	read, watch a movie, watch the news
+2988	7	0	3	2	0	6	Sports, music, travel, etc
+2989	3	0	4	0	1	6	Watching movies, reading
+2990	5	1	5	10	1	6	basketball
+2991	5	0	3	20	0	6	Reading
+2992	2	0	4	20	0	8	Watching movies, reading
+2993	3	1	4	20	0	19	Learning
+2994	3	1	3	0	3	6	Singing and dancing RAP basketball
+2995	5	0	4	0	1	6	Fitness
+2996	1	1	3	0	0	6	Music
