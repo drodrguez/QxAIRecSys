@@ -53,9 +53,38 @@ python review_generate.py --model=PETER --dataset=3_core --config=properties/PET
 ### Llama-3:
 
 Ejecutar primero `context.py` para obtener el contexto (perfil de los usuarios) y luego ejectuar `llama_api_reviews.py` para generar las reviews.
+
 ### Extraer features
 
-Desde la carpeta de Gemini, ejecutar `feature_extraction.py` modificandolo para incluir una API_KEY de Gemini API. Los archivos.
+Desde la carpeta de Gemini, ejecutar `feature_extraction.py` modificandolo para incluir una API_KEY de Gemini API. 
+
+## Evaluar la calidad de texto de las reviews generadas
+
+En la carpeta `TextQuality`, ejecutar `text_quality.py` incluyendo los archivos `.txt` de las reviews generadas en `TextQuality/generated`. Modificar los paths dentro de `text_quality.py`.
+
+## Evaluación de la calidad de las explicaciones
+
+Se calculan de manera automática al correr los modelos, quedando registradas en los correspondientes log. Las funciones para calcular dichas métricas se pueden encontrar en los correspondientes `utils.py` tanto para REASONER como PEPLER. 
+Las métricas normalizadas se calculan utilizando dichas funciones.
+
+
+REFERENCIAS:
+
+@misc{chen2023reasoner,
+      title={REASONER: An Explainable Recommendation Dataset with Multi-aspect Real User Labeled Ground Truths Towards more Measurable Explainable Recommendation}, 
+      author={Xu Chen and Jingsen Zhang and Lei Wang and Quanyu Dai and Zhenhua Dong and Ruiming Tang and Rui Zhang and Li Chen and Ji-Rong Wen},
+      year={2023},
+      eprint={2303.00168},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+
+@article{TOIS23-PEPLER,
+	title={Personalized Prompt Learning for Explainable Recommendation},
+	author={Li, Lei and Zhang, Yongfeng and Chen, Li},
+	journal={ACM Transactions on Information Systems (TOIS)},
+	year={2023}
+}
 
 
 
