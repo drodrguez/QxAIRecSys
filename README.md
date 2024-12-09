@@ -18,37 +18,49 @@ Desde la carpeta PEPLER:
 
 Para PEPLER:
 
+```
 python -u main.py \
 --data_path interactions_pepler.csv\
 --index_dir ./ \
 --cuda \
 --checkpoint ./ >> logname.log
+```
 
 Para PEPLER-MLP:
 
+```
 python -u reg.py \
 --data_path interactions_pepler.csv\
 --index_dir ./ \
 --cuda \
 --checkpoint ./ >> logname.log
+```
 
 Para PEPLER-D:
-
+ ```
 python -u discrete.py \
 --data_path interactions_pepler.csv\
 --index_dir ./ \
 --cuda \
 --checkpoint ./ >> logname.log
+```
+(Recuerde modificar el nombre "logname.log" para no sobreescribir los resultados)
 
 ### REASONER:
 
 Desde la carpeta REASONER:
 
+```
 python review_generate.py --model=[model name] --dataset=[dataset] --config=[config_files]
-
+```
 
 Ejemplo: 
+
+```
 python review_generate.py --model=PETER --dataset=3_core --config=properties/PETER.yaml
+```
+
+donde ```model```puede ser ```PETER```, ```NRT``` o ```Att2Seq```. 
 
 ### Llama-3:
 
@@ -60,7 +72,7 @@ Desde la carpeta de Gemini, ejecutar `feature_extraction.py` modificandolo para 
 
 ## Evaluar la calidad de texto de las reviews generadas
 
-En la carpeta `TextQuality`, ejecutar `text_quality.py` incluyendo los archivos `.txt` de las reviews generadas en `TextQuality/generated`. Modificar los paths dentro de `text_quality.py`.
+En la carpeta `TextQuality`, ejecutar `text_quality.py` incluyendo los archivos `.txt` de las reviews generadas en `TextQuality/generated`. Recuerde modificar los paths dentro de `text_quality.py`.
 
 ## Evaluación de la calidad de las explicaciones
 
@@ -70,6 +82,7 @@ Las métricas normalizadas se calculan utilizando dichas funciones.
 
 REFERENCIAS:
 
+```
 @misc{chen2023reasoner,
       title={REASONER: An Explainable Recommendation Dataset with Multi-aspect Real User Labeled Ground Truths Towards more Measurable Explainable Recommendation}, 
       author={Xu Chen and Jingsen Zhang and Lei Wang and Quanyu Dai and Zhenhua Dong and Ruiming Tang and Rui Zhang and Li Chen and Ji-Rong Wen},
@@ -85,6 +98,7 @@ REFERENCIAS:
 	journal={ACM Transactions on Information Systems (TOIS)},
 	year={2023}
 }
+```
 
 
 
