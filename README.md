@@ -6,7 +6,7 @@ Códigos del proyecto "Implementación de un método de evaluación cuantitativa
 En este repositorio se encuentran los códigos de:
 
 1. Una pequeña modificación a los códigos de REASONER que permiten obtener métricas de explicabilidad basadas en features para distintos sets de features.
-2. Una modifiación específica a los códigos de PEPLER para ser entrenados sobre el dataset REASONER, utilizando para ello una herramienta de extracción de features.
+2. Una modifiación específica a los códigos de PEPLER para ser entrenados sobre el dataset REASONER, utilizando para ello un script de extracción de features con Gemini-API.
 3. Un script que utiliza los perfiles de usuario incluidos en el dataset REASONER para generar explicaciones/reviews.
 4. Un script que utiliza la API de Gemini-flash 1.5 para extraer features de las reviews de REASONER, donde el número de features extraídas por review se puede ajustar (puede ser más de un feature por review)
 
